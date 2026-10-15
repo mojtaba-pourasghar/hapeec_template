@@ -1,0 +1,563 @@
+{
+  "site": "https://www.digikala.com",
+  "pages": [
+    {
+      "index": 1,
+      "url": "https://www.digikala.com/",
+      "finalUrl": "https://www.digikala.com/",
+      "status": 200,
+      "pattern": "/",
+      "kind": "home",
+      "slug": "001-home",
+      "depth": 0,
+      "capturedAt": "2026-10-15T11:04:26.654Z",
+      "shots": {
+        "desktop": {
+          "files": [
+            "desktop-full.jpg",
+            "desktop-part01.jpg",
+            "desktop-part02.jpg",
+            "desktop-part03.jpg",
+            "desktop-part04.jpg",
+            "desktop-part05.jpg"
+          ],
+          "height": 8940
+        },
+        "mobile": {
+          "files": [
+            "mobile-full.jpg",
+            "mobile-part01.jpg",
+            "mobile-part02.jpg",
+            "mobile-part03.jpg",
+            "mobile-part04.jpg"
+          ],
+          "height": 7027
+        }
+      },
+      "error": null,
+      "fingerprint": {
+        "tokens": [
+          "div.min-h-px@0",
+          "div.relative@1",
+          "div.relative@2",
+          "div.relative@3",
+          "div.relative@4",
+          "div.absolute@4",
+          "div.styles-module-scss-module__mi_@3",
+          "div.@4",
+          "div.@3",
+          "div.lgmax-w-xl@4",
+          "div.flex@4"
+        ],
+        "features": "0|0|1"
+      },
+      "notes": {
+        "title": "فروشگاه اینترنتی دیجی‌کالا",
+        "lang": "fa",
+        "dir": "rtl",
+        "font": "Digikala, sans-serif",
+        "background": "rgb(255, 255, 255)",
+        "headings": [
+          {
+            "level": "H1",
+            "text": "دسته‌بندی‌ها"
+          },
+          {
+            "level": "H1",
+            "text": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران"
+          },
+          {
+            "level": "H2",
+            "text": "ویژگی های مهم دیجی کالا"
+          },
+          {
+            "level": "H3",
+            "text": "ارسال سریع و مطمئن کالا"
+          },
+          {
+            "level": "H3",
+            "text": "تخفیف های ویژه و جشنواره ها"
+          },
+          {
+            "level": "H2",
+            "text": "انواع محصولات فروشگاه دیجی کالا"
+          },
+          {
+            "level": "H3",
+            "text": "موبایل و کالای دیجیتال"
+          },
+          {
+            "level": "H3",
+            "text": "کتاب و لوازم تحریر"
+          },
+          {
+            "level": "H3",
+            "text": "لوازم آرایشی و بهداشتی"
+          },
+          {
+            "level": "H3",
+            "text": "خرید آنلاین طلا و جواهرات"
+          },
+          {
+            "level": "H3",
+            "text": "اسباب بازی"
+          },
+          {
+            "level": "H3",
+            "text": "لوازم خانگی و مبلمان"
+          },
+          {
+            "level": "H3",
+            "text": "سوپرمارکت دیجی کالا"
+          },
+          {
+            "level": "H3",
+            "text": "محصولات بومی و محلی"
+          },
+          {
+            "level": "H3",
+            "text": "ابزار آلات و تجهیزات"
+          },
+          {
+            "level": "H3",
+            "text": "پوشاک"
+          },
+          {
+            "level": "H3",
+            "text": "تجهیزات پزشکی و سلامت"
+          },
+          {
+            "level": "H3",
+            "text": "محصولات ورزشی و سفر"
+          },
+          {
+            "level": "H3",
+            "text": "کارت هدیه"
+          },
+          {
+            "level": "H3",
+            "text": "مکمل های غذایی"
+          }
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "class": "w-full flex flex-col bg-neutral-000 relative styles-module-scss-module__P8oHaq__",
+            "top": 0,
+            "height": 108
+          },
+          {
+            "tag": "div",
+            "class": "min-h-[800px] lg:min-h-screen relative",
+            "heading": "دسته‌بندی‌ها",
+            "top": 108,
+            "height": 7626
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section styles-module-scss-module__JIVTgq__ti",
+            "top": 1264,
+            "height": 446
+          },
+          {
+            "tag": "section",
+            "class": "relative w-screen lg:w-full",
+            "top": 1404,
+            "height": 282
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 2997,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 3416,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 4117,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 4536,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 4955,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 5375,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 5794,
+            "height": 222
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 6040,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 6459,
+            "height": 395
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 6878,
+            "height": 410
+          },
+          {
+            "tag": "section",
+            "class": "styles-module-scss-module__JIVTgq__section",
+            "top": 7312,
+            "height": 410
+          },
+          {
+            "tag": "footer",
+            "class": "w-full bg-neutral-000 border-complete-t border-n-200 pt-8 mt-12",
+            "heading": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
+            "top": 7782,
+            "height": 1158
+          }
+        ]
+      },
+      "links": [
+        "https://www.digikala.com/",
+        "https://www.digikala.com/plus/landing",
+        "https://www.digikala.com/profile/notification",
+        "https://www.digikala.com/users/login",
+        "https://www.digikala.com/checkout/cart",
+        "https://www.digikala.com/incredible-offers",
+        "https://www.digikala.com/wealth/landing/digital-gold",
+        "https://www.digikala.com/best-selling",
+        "https://www.digikala.com/landings/seller-introduction",
+        "https://www.digikala.com/landing/fashion-accessories-mehr",
+        "https://www.digikala.com/product-list/plp_458831949",
+        "https://www.digikala.com/s/00pwht",
+        "https://www.digikala.com/landing/dastbe-a4",
+        "https://www.digikala.com/landing/lafarrerrcampaign05",
+        "https://www.digikala.com/landing/hb-fall-routine",
+        "https://www.digikala.com/product-list/plp_456836689",
+        "https://www.digikala.com/landing/cif05",
+        "https://www.digikala.com/landing/gold-takhfif20",
+        "https://www.digikala.com/landing/dkstores-gamebattle",
+        "https://www.digikala.com/product-list/plp_453482319",
+        "https://www.digikala.com/landing/pet-brand-collab",
+        "https://www.digikala.com/product-list/plp_443891567",
+        "https://www.digikala.com/landing/caspian05",
+        "https://www.digikala.com/wealth/my-assets",
+        "https://www.digikala.com/superapp/dkstyle",
+        "https://www.digikala.com/product-list/plp_458846086",
+        "https://www.digikala.com/s/vjvich",
+        "https://www.digikala.com/landing/laptop-tablet",
+        "https://www.digikala.com/landing/warm-cloths-fashion",
+        "https://www.digikala.com/product-list/plp_458733168",
+        "https://www.digikala.com/product/dkp-21634503/%D8%AF%D8%B3%D8%AA%D9%87%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%81%DB%8C%D9%84%DB%8C%D9%BE%D8%B3%20%D9%85%D8%AF%D9%84%205010?variant_id=82862663&product_id=21634503",
+        "https://www.digikala.com/product/dkp-16376468/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C%2025%20%D9%88%D8%A7%D8%AA%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20T2510?variant_id=73186732&product_id=16376468",
+        "https://www.digikala.com/product/dkp-3392989/%D8%B3%D8%A7%D9%86%D8%AF%20%D8%A8%D8%A7%D8%B1%20%D8%B3%D9%88%D9%86%DB%8C%20%D9%85%D8%AF%D9%84%20HT-S20R?variant_id=18602593&product_id=3392989",
+        "https://www.digikala.com/product/dkp-20917759/%DA%A9%D9%86%D8%B3%D9%88%D9%84%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%B3%D9%88%D9%86%DB%8C%20%D9%85%D8%AF%D9%84%20PlayStation%205%20Slim%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%201%20%D8%AA%D8%B1%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D8%B1%DB%8C%D8%AC%D9%86%20CFI-2116%20%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%20?variant_id=74997842&product_id=20917759",
+        "https://www.digikala.com/product/dkp-15991644/%D8%B4%D8%A7%D8%B1%DA%98%D8%B1%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C%2045%20%D9%88%D8%A7%D8%AA%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20EP-T4511%20Low%20Standby%20%D8%A8%D9%87%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%DA%A9%D8%A7%D8%A8%D9%84%20USB-C%20%D8%A8%D9%87%20%D8%B7%D9%88%D9%84%201.8%20%D9%85%D8%AA%D8%B1?variant_id=70469342&product_id=15991644",
+        "https://www.digikala.com/product/dkp-22553323/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D8%B4%20%D8%A8%D8%B1%D9%82%DB%8C%20%DB%B2%DB%B8%DB%B0%20%D8%A8%D8%A7%D8%B1%20%DB%B3%DB%B8%DB%B0%DB%B0%20%D9%88%D8%A7%D8%AA%20%D8%A8%D8%A7%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D8%AF%DB%8C%D9%86%D8%A7%D9%85%DB%8C%20%D8%AF%D9%84%DB%8C%DA%A9%D8%B3%20%DA%A9%D8%AF%20BLU3800%20%D8%A8%D8%A7%20%D8%AD%D8%AF%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%AF%D8%A8%DB%8C%20%DB%B1%DB%B0%20%D9%84%DB%8C%D8%AA%D8%B1%20%D8%AF%D8%B1%20%D8%AF%D9%82%DB%8C%D9%82%D9%87?variant_id=83040253&product_id=22553323",
+        "https://www.digikala.com/product/dkp-21729772/%D9%85%D8%A7%D9%88%D8%B3%20%D8%A8%DB%8C%20%D8%B3%DB%8C%D9%85%20%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20X-36?variant_id=78792678&product_id=21729772",
+        "https://www.digikala.com/product/dkp-20917780/%DA%A9%D9%86%D8%B3%D9%88%D9%84%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%B3%D9%88%D9%86%DB%8C%20%D9%85%D8%AF%D9%84%20PlayStation%205%20Slim%20Digital%20Edition%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20825%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D8%B1%DB%8C%D8%AC%D9%86%20CFI-2116%20%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%20?variant_id=76349421&product_id=20917780",
+        "https://www.digikala.com/product/dkp-14185411/%D9%85%D9%88%D8%AF%D9%85%20%D8%B1%D9%88%D8%AA%D8%B1%20%D9%82%D8%A7%D8%A8%D9%84%20%D8%AD%D9%85%D9%84%205G%20%D8%B2%D8%AF%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%DB%8C%20%D9%85%D8%AF%D9%84%20U30%20Pro%20%D8%A8%D8%A7%20%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B2%20Wi-Fi%206%D8%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D9%87%D9%85%E2%80%8C%D8%B2%D9%85%D8%A7%D9%86%2016%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%20%D9%88%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%20%D9%82%D8%A7%D8%A8%D9%84%20%D8%B4%D8%A7%D8%B1%DA%98?variant_id=80811266&product_id=14185411",
+        "https://www.digikala.com/product/dkp-4033272/%D8%AF%D8%B3%D8%AA%D9%87%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%B3%D8%AA%DB%8C%D8%B4%D9%86%205%20%D8%B3%D9%88%D9%86%DB%8C%20%D9%85%D8%AF%D9%84%20DualSense%20%D8%B3%D8%B1%DB%8C%20CFI-ZCT1W?variant_id=17253346&product_id=4033272",
+        "https://www.digikala.com/product/dkp-21607295/%D8%B3%D8%AA%20%D8%AA%D9%85%D9%BE%D8%B1%20%DA%AF%D8%AA%D8%B1%20%DA%A9%D8%AF%20%DB%B5%DB%B1%20%D8%A8%D8%B3%D8%AA%D9%87%206%20%D8%B9%D8%AF%D8%AF%DB%8C%20?variant_id=84104187&product_id=21607295",
+        "https://www.digikala.com/product/dkp-12565176/%D9%82%D8%B1%D8%B5%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20%D8%A8%20%DA%A9%D9%85%D9%BE%D9%84%DA%A9%D8%B3%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=55650945&product_id=12565176",
+        "https://www.digikala.com/product/dkp-20751500/%D8%B4%D9%84%D9%81%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AF%D9%84%20B301%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%203%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=73663245&product_id=20751500",
+        "https://www.digikala.com/product/dkp-21053619/%D8%AA%D8%A8%D9%84%D8%AA%208.7%20%D8%A7%DB%8C%D9%86%DA%86%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20Tab%20A11%20Wi-Fi%D8%8C%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%2064%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%204%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%D8%8C%20%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86%20%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86%208%20%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84?variant_id=84191731&product_id=21053619",
+        "https://www.digikala.com/product/dkp-8652977/%D9%82%D8%B1%D8%B5%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20%D8%A82%20%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=84698184&product_id=8652977",
+        "https://www.digikala.com/product/dkp-21729321/%D9%85%D8%BA%D8%B2%20%D8%AA%D8%AE%D9%85%D9%87%20%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%20%D8%AE%D8%A7%D9%85%20%D8%AF%D8%A7%D9%86%D9%87%E2%80%8C%D8%AF%D8%B1%D8%B4%D8%AA%20%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DA%86%DB%8C%20-%20300%20%DA%AF%D8%B1%D9%85%20%D8%A8%D8%B3%D8%AA%D9%87%202%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=78881076&product_id=21729321",
+        "https://www.digikala.com/product/dkp-76982/%DA%A9%D8%B1%D9%85%20%D8%B6%D8%AF%20%D8%AA%D8%B9%D8%B1%DB%8C%D9%82%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D9%84%D8%A7%D9%85%DB%8C%D9%86%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20Deo-01%20%D8%AD%D8%AC%D9%85%2050%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=67412&product_id=76982",
+        "https://www.digikala.com/product/dkp-19931541/%D8%B1%D9%88%D8%BA%D9%86%20%D8%A2%D8%B1%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%84%D8%B1%D9%88%DA%A9%D8%B3%20%D9%85%D8%AF%D9%84%20Moroccan%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D9%88%20%D8%AD%D8%AC%D9%85%20100%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=70686174&product_id=19931541",
+        "https://www.digikala.com/product/dkp-1785946/%D8%B5%D9%86%D8%AF%D9%84%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20%D8%A7%D9%84%DB%8C%D8%AA%20%D9%86%DB%8C%D9%88?variant_id=72331282&product_id=1785946",
+        "https://www.digikala.com/product/dkp-21053706/%D8%AA%D8%A8%D9%84%D8%AA%208.7%20%D8%A7%DB%8C%D9%86%DA%86%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20Tab%20A11%20Wi-Fi%D8%8C%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20128%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%208%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%D8%8C%20%D8%B1%D8%B2%D9%88%D9%84%D9%88%D8%B4%D9%86%20%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86%208%20%D9%85%DA%AF%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84?variant_id=84191343&product_id=21053706",
+        "https://www.digikala.com/product-list/plp_450169168",
+        "https://www.digikala.com/brand/cerita",
+        "https://www.digikala.com/landing/workout-sport-fashion",
+        "https://www.digikala.com/landing/marketplace-campaign-mehr1405_d9017b7cb7071887",
+        "https://www.digikala.com/landing/built-in-he",
+        "https://www.digikala.com/landing/levelup",
+        "https://www.digikala.com/landing/office-machines",
+        "https://www.digikala.com/fresh/incredible-offers",
+        "https://www.digikala.com/product/dkp-17657281/%D8%B4%D8%A7%D9%85%D9%BE%D9%88%20%D8%B6%D8%AF%20%D8%B1%DB%8C%D8%B2%D8%B4%20%D9%88%20%D8%AA%D9%82%D9%88%DB%8C%D8%AA%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%85%D9%88%20%D8%A2%D8%B1%D8%AA%20%D9%88%DB%8C%D9%86%D8%A7%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D9%88%D8%8C%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1%20%D9%85%D8%AF%D9%84%20%DA%A9%D8%A7%D9%81%D8%A6%DB%8C%D9%86%20%D9%BE%D9%84%D8%A7%D8%B3%D8%8C%20%D8%AD%D8%A7%D9%88%DB%8C%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20B5%20%D9%88%20E%D8%8C%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%BE%D8%A7%D8%B1%D8%A7%D8%A8%D9%86%D8%8C%20%D9%85%D8%AD%DA%A9%D9%85%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%D8%8C%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%D8%8C%20%D8%A2%D8%A8%E2%80%8C%D8%B1%D8%B3%D8%A7%D9%86%D8%8C%20%D8%A8%D8%A7%20%D8%B9%D8%B5%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A2%D9%84%D9%88%D8%A6%D9%87%E2%80%8C%D9%88%D8%B1%D8%A7%D8%8C%20%D9%85%D9%88%D8%B1%D8%AF?variant_id=61732516&product_id=17657281",
+        "https://www.digikala.com/product/dkp-22847300/%D9%85%D8%BA%D8%B2%20%D8%AA%D8%AE%D9%85%D9%87%20%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%20%D8%AE%D8%A7%D9%85%20%D9%85%D9%85%D8%AA%D8%A7%D8%B2%20%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF%20%DA%A9%D8%A7%D9%84%D8%A7%20-%20450%20%DA%AF%D8%B1%D9%85?variant_id=84234175&product_id=22847300",
+        "https://www.digikala.com/product/dkp-22359505/%D9%BE%D9%88%D8%AF%D8%B1%20%D8%AC%D9%84%D8%A8%DA%A9%20%D8%A7%D8%B3%D9%BE%DB%8C%D8%B1%D9%88%D9%84%DB%8C%D9%86%D8%A7%20%D9%85%DA%A9%D8%B3%D8%AA%D9%88%D9%86%20-%C2%A0100%20%DA%AF%D8%B1%D9%85?variant_id=82257444&product_id=22359505",
+        "https://www.digikala.com/product/dkp-18562859/%D8%B4%D8%A7%D9%85%D9%BE%D9%88%20%D9%85%D9%88%20%D8%A2%D9%86%D8%A7%D9%84%D9%88%DA%A9%D8%B3%20%D9%85%D8%AF%D9%84%20Hydrolyzed%20Milk%20%D8%AD%D8%AC%D9%85%20500%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1%D8%8C%20%D8%AA%D9%82%D9%88%DB%8C%D8%AA%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%D8%8C%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%D8%8C%20%D9%86%D8%B1%D9%85%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%D8%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D9%88%D8%8C%20%D8%AD%D8%A7%D9%88%DB%8C%20%D9%BE%D8%B1%D9%88%D8%AA%D8%A6%DB%8C%D9%86%20%D8%B4%DB%8C%D8%B1%20%D9%87%DB%8C%D8%AF%D8%B1%D9%88%D9%84%DB%8C%D8%B2%20%D8%B4%D8%AF%D9%87%D8%8C%20%D8%B9%D8%B5%D8%A7%D8%B1%D9%87%20%DA%86%D8%A7%DB%8C%20%D8%B3%D8%A8%D8%B2%20%D9%88%20%D8%B1%D8%B2%D9%85%D8%A7%D8%B1%DB%8C%D8%8C%20%D8%B1%D9%88%D8%BA%D9%86%20%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84?variant_id=66253701&product_id=18562859",
+        "https://www.digikala.com/product/dkp-4253558/%DA%A9%D8%B1%D9%85%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%20%D9%BE%D8%A7%DB%8C%20%DA%A9%D9%88%D8%AF%DA%A9%20%D9%BE%D8%B3%D8%B1%D8%A7%D9%86%D9%87%20%D8%A2%D8%B1%D8%AA%20%D9%88%DB%8C%D9%86%D8%A7%20%D9%85%D8%AF%D9%84%20Protective%20%D8%AD%D8%AC%D9%85%2075%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=13785433&product_id=4253558",
+        "https://www.digikala.com/product/dkp-15729849/%D8%B4%D8%A7%D9%85%D9%BE%D9%88%20%D8%AD%D8%AC%D9%85%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D9%88%20%D8%AF%D8%B1%D8%AE%D8%B4%D8%A7%D9%86%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%85%D9%88%20%D9%81%DB%8C%D8%AA%D9%88%20%D9%85%D8%AF%D9%84%20%D9%88%D9%84%D9%88%D9%85%D8%8C%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA%D8%8C%20%D8%AD%D8%A7%D9%88%DB%8C%20%D8%B9%D8%B5%D8%A7%D8%B1%D9%87%20%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1%20%D8%A2%D8%A8%DB%8C%20%D9%88%20%DA%AF%D9%84%20%D8%AE%D8%AA%D9%85%DB%8C%20%D8%B3%D9%81%DB%8C%D8%AF%D8%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D9%85%D9%88%D9%87%D8%A7%DB%8C%20%DA%A9%D9%85%E2%80%8C%D8%AD%D8%AC%D9%85%20%D9%88%20%D9%86%D8%A7%D8%B2%DA%A9%D8%8C%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=83686942&product_id=15729849",
+        "https://www.digikala.com/product/dkp-12451035/%D8%B2%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%20%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%20%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%20%DA%AF%D9%84%D8%AF%D9%BE%D8%AF%20%D8%A2%D9%86%D8%A7%D9%BE%D9%84%D8%A7%D8%B3%20%D9%85%D8%AF%D9%84%20E04%20%D8%A8%D8%B3%D8%AA%D9%87%2010%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=43098381&product_id=12451035",
+        "https://www.digikala.com/product/dkp-19820229/%D8%B9%D8%B3%D9%84%20%DA%86%D9%87%D9%84%20%DA%AF%DB%8C%D8%A7%D9%87%20%D9%85%D9%85%D8%AA%D8%A7%D8%B2%20-%201000%20%DA%AF%D8%B1%D9%85%20%D8%A8%D8%B3%D8%AA%D9%87%206%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=69956416&product_id=19820229",
+        "https://www.digikala.com/product/dkp-6574277/%D8%B9%D8%B3%D9%84%20%DA%86%D9%87%D9%84%20%DA%AF%DB%8C%D8%A7%D9%87%20%D9%85%D9%85%D8%AA%D8%A7%D8%B2%20%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%20-%201000%20%DA%AF%D8%B1%D9%85%20%D8%A8%D8%B3%D8%AA%D9%87%206%20%D8%B9%D8%AF%D8%AF%DB%8C%20?variant_id=22139218&product_id=6574277",
+        "https://www.digikala.com/product/dkp-3173889/%D8%B9%D8%B3%D9%84%20%DA%86%D9%87%D8%A7%D8%B1%20%DA%AF%DB%8C%D8%A7%D9%87%20%D9%85%D9%85%D8%AA%D8%A7%D8%B2%20%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%20-%20500%20%DA%AF%D8%B1%D9%85%20?variant_id=11187288&product_id=3173889",
+        "https://www.digikala.com/product/dkp-18811430/%D8%B4%D8%A7%D9%85%D9%BE%D9%88%20%D9%85%D9%88%20%D8%B1%D8%A7%DA%A9%D9%88%D8%AA%D9%86%20%D9%85%D8%AF%D9%84%20Hydrating%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D9%85%D9%88%D9%87%D8%A7%DB%8C%20%D8%AE%D8%B4%DA%A9%20%D9%88%20%D8%A2%D8%B3%DB%8C%D8%A8%20%D8%AF%DB%8C%D8%AF%D9%87%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=65667255&product_id=18811430",
+        "https://www.digikala.com/product/dkp-22580095/%D8%B9%D8%AF%D8%B3%20%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%B1%20-%20900%20%DA%AF%D8%B1%D9%85?variant_id=84334532&product_id=22580095",
+        "https://www.digikala.com/product/dkp-22556958/%D9%84%D9%BE%D9%87%20%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%B1%20-%20900%20%DA%AF%D8%B1%D9%85?variant_id=84334240&product_id=22556958",
+        "https://www.digikala.com/product/dkp-22556867/%D9%84%D9%88%D8%A8%DB%8C%D8%A7%20%DA%86%DB%8C%D8%AA%DB%8C%20%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%B1%20-%20900%20%DA%AF%D8%B1%D9%85?variant_id=84334191&product_id=22556867",
+        "https://www.digikala.com/product/dkp-5201417/%D8%B9%D8%B3%D9%84%20%D8%A8%D8%A7%D9%85%DB%8C%DA%A9%D8%A7%20-%20700%20%DA%AF%D8%B1%D9%85?variant_id=16689969&product_id=5201417",
+        "https://www.digikala.com/product/dkp-763778/%D8%B4%D8%A7%D9%85%D9%BE%D9%88%20%D8%B6%D8%AF%20%D8%B1%DB%8C%D8%B2%D8%B4%20%D9%85%D9%88%20%D9%84%D8%A7%D9%81%D8%A7%D8%B1%D8%B1%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D9%85%D9%88%D9%87%D8%A7%DB%8C%20%D9%85%D8%B9%D9%85%D9%88%D9%84%DB%8C%20%D9%88%20%D9%86%D8%A7%D8%B2%DA%A9%D8%8C%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1%20%D9%85%D8%AF%D9%84%20%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9%D8%8C%20%D8%AD%D8%A7%D9%88%DB%8C%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20B5%D8%8C%20%DA%A9%D8%A7%D9%81%D8%A6%DB%8C%D9%86%D8%8C%20%DA%A9%D8%B1%D8%A7%D8%AA%DB%8C%D9%86%20%D8%A8%D8%A7%20%D8%B9%D8%B5%D8%A7%D8%B1%D9%87%20%D8%B1%D8%B2%E2%80%8C%D9%85%D8%A7%D8%B1%DB%8C?variant_id=14470659&product_id=763778",
+        "https://www.digikala.com/product/dkp-9187283/%D9%BE%D8%AF%20%D8%B2%DB%8C%D8%B1%20%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%20%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%20%DA%AF%D9%84%D8%AF%D9%BE%D8%AF%20%D9%85%D8%AF%D9%84%20Anaplus%2001%20%D8%A8%D8%B3%D8%AA%D9%87%205%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=34895654&product_id=9187283",
+        "https://www.digikala.com/product/dkp-15463521/%DA%A9%DB%8C%D8%B3%D9%87%20%D9%81%D8%B1%DB%8C%D8%B2%D8%B1%20%D9%87%D9%BE%DB%8C%20%D9%87%D9%88%D9%85%20%D9%85%D8%AF%D9%84%20G530%20%D8%A8%D8%B3%D8%AA%D9%87%20300%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=78996303&product_id=15463521",
+        "https://www.digikala.com/product/dkp-9865589/%D9%BE%D9%88%D8%AF%D8%B1%20%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C%20%D8%B4%DB%8C%D8%B1%20%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%DB%8C%20%D8%A8%D8%A7%20%D8%B7%D8%B9%D9%85%20%D8%AA%D9%88%D8%AA%20%D9%81%D8%B1%D9%86%DA%AF%DB%8C%20%D9%88%D9%86%D8%B2%20%DA%A9%DB%8C%D8%AF%20%D9%88%D9%86%D8%B2%DA%A9%D8%A7%D9%81%D9%87%20-%20360%20%DA%AF%D8%B1%D9%85?variant_id=35591485&product_id=9865589",
+        "https://www.digikala.com/search/category-mobile",
+        "https://www.digikala.com/search/category-notebook-netbook-ultrabook",
+        "https://www.digikala.com/search/category-electronic-devices",
+        "https://www.digikala.com/search/category-home-and-kitchen",
+        "https://www.digikala.com/search/category-home-appliance",
+        "https://www.digikala.com/search/category-personal-appliance",
+        "https://www.digikala.com/landing/apparel",
+        "https://www.digikala.com/landing/gold",
+        "https://www.digikala.com/search/category-vehicles-spare-parts",
+        "https://www.digikala.com/search/category-vehicles",
+        "https://www.digikala.com/search/category-health-care",
+        "https://www.digikala.com/search/category-book-and-media",
+        "https://www.digikala.com/search/category-sport-entertainment",
+        "https://www.digikala.com/main/dk-ds-gift-card",
+        "https://www.digikala.com/search/category-food-beverage",
+        "https://www.digikala.com/search/category-mother-and-child",
+        "https://www.digikala.com/search/category-rural-products",
+        "https://www.digikala.com/search/category-pet",
+        "https://www.digikala.com/landing/laundrydetergents",
+        "https://www.digikala.com/product-list/plp_446234435",
+        "https://www.digikala.com/personalized-category/feed",
+        "https://www.digikala.com/product/dkp-5885030/%20%D8%A8%D8%AA%D9%88%D9%86%D9%87%20%D9%87%D9%85%D9%87%20%DA%A9%D8%A7%D8%B1%D9%87%20%D8%A7%D9%81%D8%B1%D8%A7%20%DA%A9%D8%AF%202022%20%D9%88%D8%B2%D9%86%20500%20%DA%AF%D8%B1%D9%85?variant_id=30910208&product_id=5885030",
+        "https://www.digikala.com/product/dkp-903666/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%B1%D9%86%DA%AF%20%D9%85%D8%B4%DA%A9%DB%8C%20%D9%85%D8%A7%D8%AA%20%D9%88%D8%A7%DA%A9%D9%88%20%D8%AD%D8%AC%D9%85%20300%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=62903946&product_id=903666",
+        "https://www.digikala.com/product/dkp-17902190/%D8%B1%D9%86%DA%AF%20%D9%86%DB%8C%D9%85%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%20%D8%B3%D9%81%DB%8C%D8%AF%20%D9%85%D8%A7%D8%AA%20%D9%85%D8%B1%D9%85%D8%B1%D9%81%D8%A7%D9%85%20%DA%A9%D8%AF%20203%20%D9%88%D8%B2%D9%86%2012%20%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85?variant_id=64324095&product_id=17902190",
+        "https://www.digikala.com/product/dkp-3039221/%D8%B4%D8%A7%D9%BE%D8%A7%D9%86%20%D8%B1%D8%B2%DB%8C%D9%86%20%DA%AF%D9%84%20%D9%85%D8%AF%D9%84%20BRW%20%D8%AD%D8%AC%D9%85%201000%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=12086932&product_id=3039221",
+        "https://www.digikala.com/product/dkp-8473283/%D8%B1%D9%86%DA%AF%20%D9%84%D8%A8%D8%A7%D8%B3%20%D9%85%D8%B4%DA%A9%DB%8C%20%DA%AF%D8%A7%D8%B2%D8%B1%20%D9%85%D8%AF%D9%84%20GR%20%D9%88%D8%B2%D9%86%2010%20%DA%AF%D8%B1%D9%85?variant_id=29955492&product_id=8473283",
+        "https://www.digikala.com/product/dkp-6921127/%D9%85%D8%A7%D8%AF%D8%B1%20%D8%B1%D9%86%DA%AF%20%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%DB%8C%DA%A9%20%D9%85%D8%B4%DA%A9%DB%8C%20%D8%A7%D9%84%D9%88%D8%A7%D9%86%20%DA%A9%D8%AF%20599%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=73495145&product_id=6921127",
+        "https://www.digikala.com/product/dkp-973871/%D8%A8%D8%B1%D8%A7%D9%82%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%88%20%D9%BE%D9%88%D9%84%DB%8C%D8%B4%20%D9%88%D8%A7%DA%A9%D8%B3%20%DA%86%D9%88%D8%A8%20%D8%B3%D8%AF%D8%A7%D8%B1%DA%A9%D8%B3%20%D8%A7%D9%88%D8%B1%D8%AC%DB%8C%D9%86%D8%A7%D9%84%20%D9%85%D8%AF%D9%84%20Z%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=77081473&product_id=973871",
+        "https://www.digikala.com/product/dkp-903674/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%B1%D9%86%DA%AF%20%D9%85%D8%B4%DA%A9%DB%8C%20%D8%A8%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%DA%A9%D9%88%20%D8%AD%D8%AC%D9%85%20300%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=83825779&product_id=903674",
+        "https://www.digikala.com/product/dkp-1505981/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%B1%D9%86%DA%AF%20%D8%B7%D9%88%D8%B3%DB%8C%20%D9%88%D8%A7%DA%A9%D9%88%20%D9%85%D8%AF%D9%84%2001%20%D8%AD%D8%AC%D9%85%20300%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=75492348&product_id=1505981",
+        "https://www.digikala.com/product/dkp-14568283/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%B1%D9%86%DA%AF%20%D9%85%D8%AA%D8%A7%D9%84%DB%8C%DA%A9%20%D9%85%D8%B4%DA%A9%DB%8C%20%D8%B5%D8%AF%D9%81%DB%8C%20%D8%AF%D9%88%D9%BE%D9%84%DB%8C%20%DA%A9%D8%A7%D9%84%D8%B1%20%D9%85%D8%AF%D9%84%20M800%20%D8%AD%D8%AC%D9%85%20400%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=55873551&product_id=14568283",
+        "https://www.digikala.com/product/dkp-3549737/%DA%A9%D9%BE%D8%B3%D9%88%D9%84%20%D9%81%D8%B1%D9%88%D8%AF%DB%8C%D9%86%20%D9%87%D9%88%D9%84%DB%8C%D8%B3%D8%AA%DB%8C%DA%A9%D8%A7%20%D8%A8%D8%B3%D8%AA%D9%87%2032%20%D8%B9%D8%AF%D8%AF%DB%8C%20?variant_id=76516315&product_id=3549737",
+        "https://www.digikala.com/product/dkp-17778328/%DA%A9%D9%BE%D8%B3%D9%88%D9%84%20%D8%B1%D9%88%D8%BA%D9%86%20%D9%85%D8%A7%D9%87%DB%8C%20%D8%A7%D9%85%DA%AF%D8%A7%203%20%D9%81%D8%A7%D9%82%D8%AF%20%D8%AC%DB%8C%D9%88%D9%87%20%D9%81%D8%B1%D9%85%D9%88%D9%84%DB%8C%D8%AA%D8%AF%20%D8%B3%D8%A7%DB%8C%D9%86%D8%B3%D8%B2%20%D8%A8%D8%B3%D8%AA%D9%87%2030%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=81790166&product_id=17778328",
+        "https://www.digikala.com/product/dkp-19184461/%DA%A9%D9%BE%D8%B3%D9%88%D9%84%20%D9%85%D9%86%DB%8C%D8%B2%DB%8C%D9%85%20%D9%BE%D9%84%D8%A7%D8%B3%20%D8%AF3%20%D9%88%20%DA%A9%D8%A72%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=69911620&product_id=19184461",
+        "https://www.digikala.com/product/dkp-7158804/%D9%82%D8%B1%D8%B5%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20D3-1000%20%D9%88%D8%A7%D8%AD%D8%AF%DB%8C%20%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=45429869&product_id=7158804",
+        "https://www.digikala.com/product/dkp-9952752/%D9%82%D8%B1%D8%B5%20%D8%A7%DA%A9%D9%88%D9%81%D8%A7%DB%8C%D9%86%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=84364261&product_id=9952752",
+        "https://www.digikala.com/product/dkp-15338501/%D9%82%D8%B1%D8%B5%20%D8%B2%DB%8C%D9%86%DA%A9%20%D9%BE%D9%84%D8%A7%D8%B3%20%D9%BE%D8%A7%D8%A8%D8%A7%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=84364237&product_id=15338501",
+        "https://www.digikala.com/product/dkp-16408975/%DA%A9%D9%BE%D8%B3%D9%88%D9%84%20%D9%85%D9%88%D9%84%D8%AA%DB%8C%20%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D9%81%D9%88%D8%B1%20%D9%87%D8%B1%20%D8%A8%D8%A7%D9%84%D8%A7%DB%8C%2050%20%D8%B3%D8%A7%D9%84%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2030%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=81070765&product_id=16408975",
+        "https://www.digikala.com/product/dkp-14380366/%DA%A9%D9%BE%D8%B3%D9%88%D9%84%20%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20%D8%A7%DB%8C%20400%20%D8%AF3%201000%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2060%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=84538654&product_id=14380366",
+        "https://www.digikala.com/product/dkp-17428425/%D8%B3%D8%A7%D8%B4%D9%87%20%D8%A7%D9%86%D8%B1%DA%98%DB%8C%20%D8%B3%D8%A7%D9%86%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2030%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=83990995&product_id=17428425",
+        "https://www.digikala.com/product/dkp-16410687/%D9%82%D8%B1%D8%B5%20%DA%A9%D8%A7%202%20%D9%BE%D9%84%D8%A7%D8%B3%20%DB%8C%D9%88%D8%B1%D9%88%D9%88%DB%8C%D8%AA%D8%A7%D9%84%20%D8%A8%D8%B3%D8%AA%D9%87%2030%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=82748950&product_id=16410687",
+        "https://www.digikala.com/brand/nourita",
+        "https://www.digikala.com/landing/ray-ban",
+        "https://www.digikala.com/product/dkp-21747254/%DA%A9%D8%A7%D9%88%D8%B1%20%DB%8C%D8%A7%D9%86%DA%AF%20%DA%A9%DB%8C%D8%AA%20%D9%85%D8%AF%D9%84%20Cyberpunk%20360%C2%B0%20Spin%20Magnetic%20Stand%20Case%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20S26%20Ultra?variant_id=84711435&product_id=21747254",
+        "https://www.digikala.com/product/dkp-21304319/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20%D9%85%DA%A9%20%D8%B3%DB%8C%D9%81%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D8%A7%D9%BE%D9%84%20iphone%2017promax?variant_id=79474070&product_id=21304319",
+        "https://www.digikala.com/product/dkp-20934227/%DA%A9%D8%A7%D9%88%D8%B1%20%D8%B3%D8%A7%D9%85%D9%88%D8%B1%D8%A7%DB%8C%DB%8C%20%D9%85%D8%AF%D9%84%20SPC%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%A7%D9%BE%D9%84%20iPhone%2017%20Pro%20Max?variant_id=74525805&product_id=20934227",
+        "https://www.digikala.com/product/dkp-22439133/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20%D9%85%DA%AF%D8%B3%DB%8C%D9%81%20%D8%B1%D9%86%DA%AF%DB%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20Redmi%20Note%2014%204G?variant_id=82468647&product_id=22439133",
+        "https://www.digikala.com/product/dkp-16286625/%DA%A9%D8%A7%D9%88%D8%B1%20%D8%B6%D8%AF%20%D8%A2%D8%A8%20%D9%85%D8%AF%D9%84%20D25%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%B2%207%20%D8%A7%DB%8C%D9%86%D8%AC?variant_id=84498748&product_id=16286625",
+        "https://www.digikala.com/product/dkp-19165244/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%82%D8%A7%D8%A8%20%D9%86%D8%A7%DB%8C%D8%B3%20%D9%85%D8%AF%D9%84%20PRDESIGN%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%AF%D8%A7%D8%B1%DB%8C%D8%A7%20Bond?variant_id=84226102&product_id=19165244",
+        "https://www.digikala.com/product/dkp-11523247/%20%20%DA%A9%D8%A7%D9%88%D8%B1%20%D8%A7%D9%88%D8%AF%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20Space%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20Mi%2011T%20%20Mi%2011T%20Pro?variant_id=83487781&product_id=11523247",
+        "https://www.digikala.com/product/dkp-22032769/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%86%DB%8C%D9%84%DA%A9%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20Camshield%20Pro%20Transparent%20version%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20A57?variant_id=80844718&product_id=22032769",
+        "https://www.digikala.com/product/dkp-22363125/%D9%82%D8%A7%D8%A8%20%DA%A9%D8%A7%D9%88%D8%B1%20%DA%A9%DB%8C%20%D8%B2%D8%AF%20%D8%AF%D9%88%20%D9%85%D8%AF%D9%84%20Ares%20sport%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20S26%20ultra?variant_id=84388282&product_id=22363125",
+        "https://www.digikala.com/product/dkp-7533757/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%86%DB%8C%D9%84%DA%A9%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20CamShield%20Pro%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20S22%20Ultra%20?variant_id=76008780&product_id=7533757",
+        "https://www.digikala.com/product/dkp-20481188/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%A7%D9%BE%D9%84%20%D9%85%D8%AF%D9%84%20iPhone%2017%20Pro%20Max%20ZAA%20%D8%AA%DA%A9%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20+%20eSim%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%2012%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%D9%86%D8%A7%D8%AA%20%D8%A7%DA%A9%D8%AA%DB%8C%D9%88%20?variant_id=73071289&product_id=20481188",
+        "https://www.digikala.com/product/dkp-20565427/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%D9%88%D9%84%D8%A7%20%D9%85%D8%AF%D9%84%20Edge%2060%20Fusion%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%2012%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA?variant_id=72985464&product_id=20565427",
+        "https://www.digikala.com/product/dkp-17986248/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20%D9%85%D8%AF%D9%84%20Poco%20X7%20Pro%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20512%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%2012%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%DA%AF%D9%84%D9%88%D8%A8%D8%A7%D9%84?variant_id=79127353&product_id=17986248",
+        "https://www.digikala.com/product/dkp-20135132/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20S25%20FE%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%208%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85?variant_id=80921639&product_id=20135132",
+        "https://www.digikala.com/product/dkp-21190850/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20%D9%85%D8%AF%D9%84%20Redmi%20Note%2015%204G%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%208%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA?variant_id=83286442&product_id=21190850",
+        "https://www.digikala.com/product/dkp-22469143/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%A7%D8%B1%D8%AF%20%D9%85%D8%AF%D9%84%20F200%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA?variant_id=83575835&product_id=22469143",
+        "https://www.digikala.com/product/dkp-21660239/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20A57%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%E2%80%8C%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%208%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85?variant_id=82088742&product_id=21660239",
+        "https://www.digikala.com/product/dkp-20490694/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20A17%204G%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20128%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%204%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20-%20%D9%88%DB%8C%D8%AA%D9%86%D8%A7%D9%85?variant_id=74436055&product_id=20490694",
+        "https://www.digikala.com/product/dkp-17580036/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20%D9%85%D8%AF%D9%84%20Redmi%20Note%2014%204G%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20256%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%208%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA?variant_id=79503357&product_id=17580036",
+        "https://www.digikala.com/product/dkp-20109389/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20Galaxy%20A07%20%D8%AF%D9%88%20%D8%B3%DB%8C%D9%85%20%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%2064%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%204%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA?variant_id=84745224&product_id=20109389",
+        "https://www.digikala.com/product/dkp-11801878/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%A7%D9%86%DA%A9%D8%B1%20%D9%85%D8%AF%D9%84%20SoundCore%20R50i%20A3949%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA%20%D9%86%D9%88%DB%8C%D8%B2%20%DA%A9%D9%86%D8%B3%D9%84%DB%8C%D9%86%DA%AF%D8%8C%20%D8%AF%D8%B1%DA%AF%D8%A7%D9%87%20%D8%B4%D8%A7%D8%B1%DA%98%20USB%20Type-C%D8%8C%20%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%20%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20AI-Enhanced%20Calls%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%87%D8%B4%20%D9%86%D9%88%DB%8C%D8%B2%20%D9%88%20%D8%A8%D9%87%D8%A8%D9%88%D8%AF%20%D9%85%DA%A9%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D8%8C%20%D9%85%D9%82%D8%A7%D9%88%D9%85%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%20%D8%B1%D8%B7%D9%88%D8%A8%D8%AA%20%D9%88%20%D8%B9%D8%B1%D9%82?variant_id=79463095&product_id=11801878",
+        "https://www.digikala.com/product/dkp-16200986/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%A7%D9%86%DA%A9%D8%B1%20%D9%85%D8%AF%D9%84%20R50i%20NC%20%D8%A8%D8%A7%20%D8%AD%D8%B0%D9%81%20%D9%86%D9%88%DB%8C%D8%B2%20%D9%81%D8%B9%D8%A7%D9%84%20(ANC)%D8%8C%20%D8%AF%D8%B1%DA%AF%D8%A7%D9%87%20%D8%B4%D8%A7%D8%B1%DA%98%20USB%20Type-C%D8%8C%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%20%D9%82%D8%A7%D8%A8%D9%84%20%D8%B4%D8%A7%D8%B1%DA%98%20%D8%AA%D8%A7%2045%20%D8%B3%D8%A7%D8%B9%D8%AA%D8%8C%20%D9%85%D9%82%D8%A7%D9%88%D9%85%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%20%D9%BE%D8%A7%D8%B4%D8%B4%20%D8%A2%D8%A8%20%D9%88%20%DA%AF%D8%B1%D8%AF%20%D9%88%20%D8%BA%D8%A8%D8%A7%D8%B1?variant_id=83559437&product_id=16200986",
+        "https://www.digikala.com/product/dkp-21061064/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%A7%D9%86%DA%A9%D8%B1%20%D9%85%D8%AF%D9%84%20R60i%20NC%20%D8%A8%D8%A7%20%D9%86%D9%88%DB%8C%D8%B2%20%DA%A9%D9%86%D8%B3%D9%84%DB%8C%D9%86%DA%AF%20%D9%81%D8%B9%D8%A7%D9%84%20Adaptive%20ANC%D8%8C%20%D8%AF%D8%B1%D8%A7%DB%8C%D9%88%D8%B1%2011%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%85%D8%AA%D8%B1%DB%8C%D8%8C%20%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B2%20LDAC%20%D9%88%20Hi-Res%20Audio%D8%8C%20Spatial%20Audio%D8%8C%20%D9%85%D9%82%D8%A7%D9%88%D9%85%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%20%D8%A2%D8%A8%20%D9%88%20%D8%B9%D9%85%D8%B1%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%2050%20%D8%B3%D8%A7%D8%B9%D8%AA?variant_id=80064352&product_id=21061064",
+        "https://www.digikala.com/product/dkp-22612466/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%B1%DB%8C%D9%88%D9%84%DB%8C%D9%86%DA%A9%20%D9%85%D8%AF%D9%84%20DEKO%20Pro2?variant_id=84553409&product_id=22612466",
+        "https://www.digikala.com/product/dkp-17361639/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20%D9%85%D8%AF%D9%84%20Redmi%20Buds%206%20Play%20%D8%A8%D8%A7%20%D9%86%D9%88%DB%8C%D8%B2%20%DA%A9%D9%86%D8%B3%D9%84%DB%8C%D9%86%DA%AF%20%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%81%D9%88%D9%86%20(ENC)%D8%8C%20%D8%AF%D8%B1%DA%AF%D8%A7%D9%87%20%D8%B4%D8%A7%D8%B1%DA%98%20USB%20Type-C%D8%8C%20%D8%A8%D8%A7%20%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D9%87%20%DA%86%D9%86%D8%AF%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%D8%8C%20%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%20%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C%20%D8%B5%D8%AF%D8%A7%DB%8C%20360%D8%8C%20%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%20%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA%20%D8%B4%D8%A7%D8%B1%DA%98%20%D8%B3%D8%B1%DB%8C%D8%B9%D8%8C%20%D9%85%D9%82%D8%A7%D9%88%D9%85%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%20%D9%BE%D8%A7%D8%B4%D8%B4%20%D8%A2%D8%A8%20(IPX4)?variant_id=72159561&product_id=17361639",
+        "https://www.digikala.com/product/dkp-22917058/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D9%85%D9%88%D8%B2%DB%8C%DA%A9%20%D8%A2%D9%BE%D9%88%D9%84%D9%88%20%D9%85%D8%AF%D9%84%20RAY21RO?variant_id=84623967&product_id=22917058",
+        "https://www.digikala.com/product/dkp-22649427/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D9%88%D9%88%D9%86%DA%A9%20%D9%85%D8%AF%D9%84%204?variant_id=84553495&product_id=22649427",
+        "https://www.digikala.com/product/dkp-17796977/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%B3%D9%88%D9%86%DB%8C%20%D9%85%D8%AF%D9%84%20WF-C510?variant_id=67648302&product_id=17796977",
+        "https://www.digikala.com/product/dkp-20422049/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%A7%D9%BE%D9%84%20%D9%85%D8%AF%D9%84%20AirPods%20Pro%203%20%D8%A8%D8%A7%20%D9%86%D9%88%DB%8C%D8%B2%20%DA%A9%D9%86%D8%B3%D9%84%DB%8C%D9%86%DA%AF%20%D9%81%D8%B9%D8%A7%D9%84%D8%8C%20%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA%20%D9%BE%D8%AE%D8%B4%20%D8%B5%D8%AF%D8%A7%DB%8C%20%D9%85%D8%AD%DB%8C%D8%B7%DB%8C%D8%8C%20%D8%B9%D9%85%D8%B1%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%2010%20%D8%B3%D8%A7%D8%B9%D8%AA%D8%8C%20%D9%85%D9%82%D8%A7%D9%88%D9%85%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%20%D8%B1%D8%B7%D9%88%D8%A8%D8%AA%20%D9%88%20%D8%B9%D8%B1%D9%82?variant_id=81571982&product_id=20422049",
+        "https://www.digikala.com/product/dkp-16470868/%D9%87%D8%AF%D9%81%D9%88%D9%86%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB%DB%8C%20%D8%A8%D8%A7%D8%B3%D8%A6%D9%88%D8%B3%20%D9%85%D8%AF%D9%84%20Bowie%20E16?variant_id=83928260&product_id=16470868",
+        "https://www.digikala.com/product/dkp-9739658/%DA%A9%DB%8C%D8%AA%20%D9%86%D9%88%D8%B1%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AF%D8%A7%D8%AE%D9%84%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D8%AF%D8%B1%DB%8C%D9%85%20%D9%84%D8%A7%DB%8C%D8%AA%20%D9%85%D8%AF%D9%84%C2%A0musical?variant_id=81350225&product_id=9739658",
+        "https://www.digikala.com/product/dkp-801655/%DA%86%D8%B1%D8%A7%D8%BA%20%D8%A7%D9%84%20%D9%88%D8%A7%DB%8C%D8%B1%20%D9%84%D8%A8%D9%87%20%D8%AF%D8%A7%D8%B1%20%D8%A8%D8%A7%20%D8%AA%D8%B1%D8%A7%D9%86%D8%B3%20%D8%B7%D9%88%D9%84%20%D8%B3%DB%8C%D9%85%20200%20%D8%B3%D8%A7%D9%86%D8%AA%DB%8C%D9%85%D8%AA%D8%B1?variant_id=76563892&product_id=801655",
+        "https://www.digikala.com/product/dkp-2254857/%D8%B4%D9%85%D8%A7%D8%B1%D9%87%20%D8%AA%D9%84%D9%81%D9%86%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20GPK?variant_id=84724212&product_id=2254857",
+        "https://www.digikala.com/product/dkp-22349366/%D8%A2%D8%A8%DA%AF%DB%8C%D8%B1%20%D8%A2%DB%8C%D9%86%D9%87%20%D8%AC%D8%A7%D9%86%D8%A8%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20%D8%A7%D9%86%D8%B9%D8%B7%D8%A7%D9%81%20%D9%BE%D8%B0%DB%8C%D8%B1%20%D8%A8%D8%B3%D8%AA%D9%87%202%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=82044206&product_id=22349366",
+        "https://www.digikala.com/product/dkp-4861641/%DA%86%D8%B1%D8%A7%D8%BA%20%D8%B2%DB%8C%D8%B1%20%D9%BE%D8%A7%DB%8C%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20%D9%84%D9%86%D8%AA%D9%88%20B?variant_id=15599646&product_id=4861641",
+        "https://www.digikala.com/product/dkp-14794542/%DA%86%D8%B1%D8%A7%D8%BA%20%D8%B2%DB%8C%D8%B1%20%D9%BE%D8%A7%DB%8C%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20LED%20BL?variant_id=50653849&product_id=14794542",
+        "https://www.digikala.com/product/dkp-13002965/%D9%84%D8%A7%D9%85%D9%BE%20%D8%A7%D9%84%20%D8%A7%DB%8C%20%D8%AF%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D8%A7%D9%81%20%D8%A7%DA%86%20%D8%AF%DB%8C%20%D9%85%D8%AF%D9%84%2026-RD%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%AF%D9%88%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=75652077&product_id=13002965",
+        "https://www.digikala.com/product/dkp-7594825/%D8%A2%DB%8C%D9%86%D9%87%20%D9%88%D8%B3%D8%B7%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%DB%8C%D8%B2%D8%AF%DB%8C%20%D9%85%D8%AF%D9%84%20%D8%AF%D8%B1%D8%AC%D9%87%20%D8%AF%D8%A7%D8%B1%20%DA%A9%D8%AF%2001?variant_id=31769448&product_id=7594825",
+        "https://www.digikala.com/product/dkp-14455492/%D8%A2%DA%86%D8%A7%D8%B1%20%D8%AC%DA%A9%20%D8%AC%D8%BA%D8%AC%D8%BA%D9%87%20%D8%A7%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20JMN%20138?variant_id=79706295&product_id=14455492",
+        "https://www.digikala.com/product/dkp-6880053/%D9%82%DB%8C%D9%81%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D9%85%D8%AF%D9%84%20ZA-GHR1?variant_id=71456512&product_id=6880053",
+        "https://www.digikala.com/brand/rani",
+        "https://www.digikala.com/brand/tora-bika",
+        "https://www.digikala.com/brand/mashad-leather",
+        "https://www.digikala.com/brand/adata",
+        "https://www.digikala.com/brand/zarin-iran",
+        "https://www.digikala.com/brand/modopod",
+        "https://www.digikala.com/brand/x-vision",
+        "https://www.digikala.com/brand/maya-maahak",
+        "https://www.digikala.com/brand/neterbit",
+        "https://www.digikala.com/brand/huawei",
+        "https://www.digikala.com/brand/eurhi-vital",
+        "https://www.digikala.com/brand/lafarrerr",
+        "https://www.digikala.com/brand/xiaomi",
+        "https://www.digikala.com/brand/my",
+        "https://www.digikala.com/brand/samsung",
+        "https://www.digikala.com/brand/active",
+        "https://www.digikala.com/brand/saei",
+        "https://www.digikala.com/brand/kalleh",
+        "https://www.digikala.com/brand/vitalayer",
+        "https://www.digikala.com/brand/fulica",
+        "https://www.digikala.com/product/dkp-20270158/%DA%A9%D8%B1%D9%85%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%88%20%DA%AF%D8%B1%D8%AF%D9%86%20%DA%A9%D9%84%D8%A7%D9%85%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20collagen%20bank%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D9%88%D8%B3%D8%AA%20%D8%AD%D8%AC%D9%85%20125%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=84318058&product_id=20270158",
+        "https://www.digikala.com/product/dkp-13862382/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%88%20%D8%A8%D8%AF%D9%86%20%D9%88%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%B1%20%D9%85%D8%AF%D9%84%20Hydravit%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D9%88%D8%B3%D8%AA%20%D8%AD%D8%AC%D9%85%2075%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=77785335&product_id=13862382",
+        "https://www.digikala.com/product/dkp-4545846/%DA%A9%D8%B1%D9%85%20%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%B1%D8%A7%DA%A9%D9%88%D8%AA%D9%86%20%D9%85%D8%AF%D9%84%20Prebiotic%20%D8%AD%D8%AC%D9%85%2050%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=55164882&product_id=4545846",
+        "https://www.digikala.com/product/dkp-2411996/%DA%A9%D8%B1%D9%85%20%D9%86%D8%B1%D9%85%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%AB%D9%85%DB%8C%D9%86%20%D9%85%D8%AF%D9%84%20%D8%A7%D9%88%D8%B3%D8%B1%DB%8C%D9%86%20%D9%88%20%D8%A7%D9%88%D8%B1%D9%87%2010%D8%AF%D8%B1%D8%B5%D8%AF%20%D8%AD%D8%AC%D9%85%20100%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=54363245&product_id=2411996",
+        "https://www.digikala.com/product/dkp-1518148/%DA%A9%D8%B1%D9%85%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%AF%D8%B1%D9%85%D8%A7%D9%84%DB%8C%D9%81%D8%AA%20%D9%85%D8%AF%D9%84%20Hydralift%20AC%20Cream%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D9%BE%D9%88%D8%B3%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%86%D8%B1%D8%A8%20%D8%AD%D8%AC%D9%85%2050%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=10242542&product_id=1518148",
+        "https://www.digikala.com/product/dkp-12114980/%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%B1%D8%A7%DA%A9%D9%88%D8%AA%D9%86%20%D9%85%D8%AF%D9%84%20%D9%BE%D9%88%D8%B3%D8%AA%20%D8%AE%D8%B4%DA%A9%20%D8%AD%D8%AC%D9%85%2050%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=68058867&product_id=12114980",
+        "https://www.digikala.com/product/dkp-3149571/%DA%A9%D8%B1%D9%85%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%DA%A9%D8%A7%D9%85%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20Oil%20Plus%20%D8%AD%D8%AC%D9%85%20250%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=77068470&product_id=3149571",
+        "https://www.digikala.com/product/dkp-22288225/%DA%A9%D8%B1%D9%85%20%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%AF%D8%B3%D8%AA%20%D9%88%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%88%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%A7%D9%88%D8%B3%D8%B1%DB%8C%D9%86%20%D9%88%20%D8%A7%D9%88%D8%B1%D9%87%2010%%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%BE%D9%88%D8%B3%D8%AA%20%D8%AE%D8%B4%DA%A9%20%D9%88%20%D8%AE%DB%8C%D9%84%DB%8C%20%D8%AE%D8%B4%DA%A9%20%D8%AD%D8%AC%D9%85%20100%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=82320090&product_id=22288225",
+        "https://www.digikala.com/product/dkp-714799/%DA%A9%D8%B1%D9%85%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%88%20%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%AF%D8%B3%D8%AA%20%D9%88%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%84%D8%A7%D9%81%D8%A7%D8%B1%D8%B1%20%D9%85%D8%AF%D9%84%2004%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D9%BE%D9%88%D8%B3%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%AD%D8%AC%D9%85%2075%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D9%84%DB%8C%D8%AA%D8%B1?variant_id=31043454&product_id=714799",
+        "https://www.digikala.com/product/dkp-15998921/%DA%A9%D8%B1%D9%85%20%DA%98%D9%84%20%D9%85%D8%B1%D8%B7%D9%88%D8%A8%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%C2%A0%D9%88%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%B1%20%D9%85%D8%AF%D9%84%20%D9%87%DB%8C%D8%AF%D8%B1%D8%A7%D9%88%DB%8C%D8%AA%20%D8%AD%D8%AC%D9%85%2050%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=55502690&product_id=15998921",
+        "https://www.digikala.com/product/dkp-37948/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%B4%D8%A8%20%D9%87%D8%A7%DB%8C%20%D8%B1%D9%88%D8%B4%D9%86%20%D8%A7%D8%AB%D8%B1%20%D9%81%DB%8C%D9%88%D8%AF%D9%88%D8%B1%20%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%81%D8%B3%DA%A9%DB%8C%20%D9%86%D8%B4%D8%B1%20%D9%85%D8%A7%D9%87%DB%8C?variant_id=69946226&product_id=37948",
+        "https://www.digikala.com/product/dkp-137612/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A8%D8%A7%D9%85%D8%AF%D8%A7%D8%AF%20%D8%AE%D9%85%D8%A7%D8%B1%20%D8%A7%D8%AB%D8%B1%20%D9%81%D8%AA%D8%A7%D9%86%D9%87%20%D8%AD%D8%A7%D8%AC%20%D8%B3%DB%8C%D8%AF%20%D8%AC%D9%88%D8%A7%D8%AF%DB%8C?variant_id=83982561&product_id=137612",
+        "https://www.digikala.com/product/dkp-15207430/%DA%A9%D8%AA%D8%A7%D8%A8%20%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87%20%D9%86%DB%8C%D9%85%D9%87%20%D8%B4%D8%A8%20%D8%A7%D8%AB%D8%B1%20%D9%85%D8%AA%20%D9%87%DB%8C%DA%AF%20%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%87%DB%8C%D8%AA%D8%A7?variant_id=53848923&product_id=15207430",
+        "https://www.digikala.com/product/dkp-22905162/%DA%A9%D8%AA%D8%A7%D8%A8%20%D9%82%D9%84%D8%B9%D9%87%20%D9%85%D8%A7%D9%84%D9%88%DB%8C%D9%84%20%D8%A7%D8%AB%D8%B1%20%D8%B1%D8%A7%D8%A8%D8%B1%D8%AA%20%D9%85%D8%B1%D9%84%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%DB%8C%20%D9%81%D8%B1%D8%AF%20%D9%86%D8%B4%D8%B1%20%D9%87%DB%8C%D8%AA%D8%A7?variant_id=84517101&product_id=22905162",
+        "https://www.digikala.com/product/dkp-2550695/%DA%A9%D8%AA%D8%A7%D8%A8%20%DA%86%D8%B4%D9%85%20%D9%87%D8%A7%DB%8C%D8%B4%20%D8%A7%D8%AB%D8%B1%20%D8%A8%D8%B2%D8%B1%DA%AF%20%D8%B9%D9%84%D9%88%DB%8C%20%D9%86%D8%B4%D8%B1%20%D9%86%DA%AF%D8%A7%D9%87?variant_id=36044181&product_id=2550695",
+        "https://www.digikala.com/product/dkp-56302/%DA%A9%D8%AA%D8%A7%D8%A8%20%D9%85%D9%88%D8%B4%20%D9%87%D8%A7%20%D9%88%20%D8%A2%D8%AF%D9%85%20%D9%87%D8%A7%20%D8%A7%D8%AB%D8%B1%20%D8%AC%D8%A7%D9%86%20%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%86%20%D8%A8%DA%A9?variant_id=77768894&product_id=56302",
+        "https://www.digikala.com/product/dkp-22456762/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87%20%D8%B3%D9%86%DA%AF%D8%AF%D9%84%D8%8C%20%D9%BE%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%20%D9%BE%D9%84%DB%8C%D8%AF%20%D9%88%20%D9%85%D9%84%DA%A9%D9%87%20%D9%BE%D9%88%D8%B4%D8%A7%D9%84%DB%8C%20%D8%A7%D8%AB%D8%B1%20%D9%87%D8%A7%D9%84%DB%8C%20%D8%A8%D9%84%DA%A9%20%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A2%D8%B0%D8%B1%D8%A8%DB%8C%D8%A7%D9%86%20%DB%B3%20%D8%AC%D9%84%D8%AF%DB%8C?variant_id=82560280&product_id=22456762",
+        "https://www.digikala.com/product/dkp-21862928/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A8%D9%84%D8%A7%D8%AF%D9%88%D9%86%D8%A7%20%D8%A7%D8%AB%D8%B1%20%D8%A2%D8%AF%D9%84%DB%8C%D9%86%20%DA%AF%D8%B1%DB%8C%D8%B3%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%86%D8%B1%DA%AF%D8%B3%20%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C%20%D9%85%D8%B7%D9%84%D9%88%D8%A8%20%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A2%D8%B1%D8%A7%D8%B3%D8%AA%DA%AF%D8%A7%D9%86?variant_id=80485050&product_id=21862928",
+        "https://www.digikala.com/product/dkp-22485094/%DA%A9%D8%AA%D8%A7%D8%A8%20%D9%82%D8%B7%D8%A7%D8%B1%20%D9%86%DB%8C%D9%85%D9%87%20%D8%B4%D8%A8%20%D8%A7%D8%AB%D8%B1%20%D9%85%D8%AA%20%D9%87%DB%8C%DA%AF%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%BE%D8%B1%DB%8C%D8%B3%D8%A7%20%D8%B1%D8%AC%D9%88%D9%86%D8%AF%20%D9%86%D8%B4%D8%B1%20%D8%AE%D8%B1%DA%86%D9%86%DA%AF?variant_id=82696430&product_id=22485094",
+        "https://www.digikala.com/product/dkp-20563500/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%86%D8%AC%D9%85%D9%86%20%D8%B4%D8%A7%D8%B9%D8%B1%D8%A7%D9%86%20%D9%85%D8%B1%D8%AF%D9%87%20%D8%A7%D8%AB%D8%B1%20%D8%A7%D9%86%20%D8%A7%DA%86%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%20%D8%A8%D8%A7%D9%85%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%88%D8%A7%D8%AF%20%D8%B1%D8%AD%DB%8C%D9%85%DB%8C%D8%A7%D9%86%20%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA%C2%A0%D8%A2%D8%B0%D8%B1%D8%A8%DB%8C%D8%A7%D9%86?variant_id=73003095&product_id=20563500",
+        "https://www.digikala.com/product/dkp-11295402/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%20%D8%B5%D9%81%D8%AD%D9%87%20%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%AD%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20%D8%A2%D9%86%D8%AA%DB%8C%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%DB%8C%DA%A9%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20Poco%20M3%20Pro%205G?variant_id=41804160&product_id=11295402",
+        "https://www.digikala.com/product/dkp-5462280/%D8%B4%D8%A7%D8%B3%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D9%85%D8%AF%D9%84%20022%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20E2652?variant_id=20393012&product_id=5462280",
+        "https://www.digikala.com/product/dkp-15000238/%D9%BE%DB%8C%DA%A9%D8%B3%D9%84%20%DA%AF%D8%A7%D9%84%D8%B1%DB%8C%20%D8%A8%D8%A7%D8%AC%D9%88%20%D8%B7%D8%B1%D8%AD%20%D8%AC%D8%BA%D8%AF%20%D8%A8%D8%A7%D9%85%D8%B2%D9%87%20%DA%A9%D8%AF%20owl%2017%20%D8%A8%D9%87%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%AC%D8%A7%DA%A9%D9%84%DB%8C%D8%AF%DB%8C?variant_id=51405850&product_id=15000238",
+        "https://www.digikala.com/product/dkp-10144235/%D8%A8%D8%B1%DA%86%D8%B3%D8%A8%20%D9%BE%D9%88%D8%B4%D8%B4%DB%8C%20%D8%A7%DB%8C%D9%86%D9%81%DB%8C%D9%86%DB%8C%D8%AA%DB%8C%20%D9%85%D8%AF%D9%84%20PRO%20MAX%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20GALAXY%20A01?variant_id=36696853&product_id=10144235",
+        "https://www.digikala.com/product/dkp-18130500/%DA%A9%D8%A7%D8%B1%D8%AA%20%D8%AF%D8%B9%D9%88%D8%AA%20%D9%85%D8%AF%D9%84%20%D9%85%DA%A9%D9%87%20%D8%B7%D8%B1%D8%AD%20%D8%B7%D9%84%D8%A7%DA%A9%D9%88%D8%A8%20%D8%A8%D8%B3%D8%AA%D9%87%2050%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=63354136&product_id=18130500",
+        "https://www.digikala.com/product/dkp-10020850/%DA%A9%D8%A7%D9%88%D8%B1%20%D8%AF%DB%8C%D8%A7%D9%85%D8%A7%D9%86%D8%AA%D9%87%20%D9%85%D8%AF%D9%84%20%D8%A8%DB%8C%20%D8%B1%D9%86%DA%AF%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20A03?variant_id=36423355&product_id=10020850",
+        "https://www.digikala.com/product/dkp-21532410/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20silicon04%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20S20%20Fe?variant_id=77589200&product_id=21532410",
+        "https://www.digikala.com/product/dkp-11429763/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%20%D8%B5%D9%81%D8%AD%D9%87%20%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%A7%D8%AA%20%D9%86%DB%8C%DA%A9%D8%B3%D9%88%20%D9%85%D8%AF%D9%84%202CMN%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20Redmi%20Note%208%202021%20%D8%A8%D9%87%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%20%D9%BE%D8%B4%D8%AA%20%DA%AF%D9%88%D8%B4%DB%8C?variant_id=40401371&product_id=11429763",
+        "https://www.digikala.com/product/dkp-9879289/%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D8%AD%D9%88%D9%84%D9%87%20%D9%BE%D8%A7%D9%84%D8%AA%D9%88%DB%8C%DB%8C%206%20%D8%AA%DA%A9%D9%87%20%D8%B1%D8%B3%DB%8C%D9%86%D8%A7%20%D9%85%D8%AF%D9%84%20Boutigue?variant_id=35687576&product_id=9879289",
+        "https://www.digikala.com/product/dkp-10593100/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%20%D8%B5%D9%81%D8%AD%D9%87%20%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D9%85%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%AD%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20HORO%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%A7%D9%BE%D9%84%20iphone%20XS%20MAX?variant_id=38606582&product_id=10593100",
+        "https://www.digikala.com/product/dkp-15376875/%DA%A9%D9%88%D8%B3%D9%86%20%DA%A9%D8%AF%20KO549?variant_id=52926511&product_id=15376875",
+        "https://www.digikala.com/product/dkp-14326051/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%DB%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF%20Galaxy%20A53?variant_id=68943153&product_id=14326051",
+        "https://www.digikala.com/product/dkp-8269495/%D9%82%D9%84%D9%86%D8%AC%D8%A7%D9%86%20-%20100%20%DA%AF%D8%B1%D9%85?variant_id=29331026&product_id=8269495",
+        "https://www.digikala.com/product/dkp-19739828/%DA%A9%D8%A7%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20%D9%85%D8%A7%D8%B1%D8%A8%D9%8402%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%A7%D9%BE%D9%84%20Iphone%20XXS?variant_id=69690009&product_id=19739828",
+        "https://www.digikala.com/product/dkp-12876811/%D8%AF%D8%A7%D8%B1%DA%86%DB%8C%D9%86%20%D9%82%D9%84%D9%85%DB%8C%20%D9%81%D8%B1%D8%AF%20%D9%85%D8%B3%D8%AA%D8%A7%D9%86%D9%87%20-%20200%20%DA%AF%D8%B1%D9%85?variant_id=44397396&product_id=12876811",
+        "https://www.digikala.com/product/dkp-10308286/%DA%A9%D9%81%D8%B4%20%D8%B1%D9%88%D8%B2%D9%85%D8%B1%D9%87%20%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87%20%D8%B4%DB%8C%D9%85%D8%A7%20%D9%85%D8%AF%D9%84%20%D8%B2%D8%A7%DB%8C%D8%B3%20108?variant_id=57793922&product_id=10308286",
+        "https://www.digikala.com/product/dkp-20865598/%DA%A9%D9%81%D8%B4%20%D8%B1%D9%88%D8%B2%D9%85%D8%B1%D9%87%20%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87%20%D8%B3%D8%A7%D8%B1%D8%B2%DB%8C%20%D9%85%D8%AF%D9%84%20p.u.m.-p.l.u.s-9871?variant_id=74970952&product_id=20865598",
+        "https://www.digikala.com/product/dkp-21945010/%D9%BE%D8%A7%D9%84%D8%AA%20%D8%AE%D8%B7%20%DA%86%D8%B4%D9%85%20%D9%88%20%D8%A7%D8%A8%D8%B1%D9%88%20%D8%B4%DB%8C%DA%AF%D9%84%D9%85%20%D9%85%D8%AF%D9%84%20POUR?variant_id=80049162&product_id=21945010",
+        "https://www.digikala.com/product/dkp-15641998/%D8%B5%D9%86%D8%AF%D9%84%DB%8C%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AF%D9%84%20SK1440?variant_id=65616954&product_id=15641998",
+        "https://www.digikala.com/product/dkp-21870108/%DA%AF%D9%88%D8%B4%DB%8C%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84%20%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C%20%D9%85%D8%AF%D9%84%20Redmi%20A7%20Pro%204G%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%20128%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D9%88%20%D8%B1%D9%85%204%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA?variant_id=84089344&product_id=21870108",
+        "https://www.digikala.com/product/dkp-980661/%D8%B4%D9%88%D8%B1%D8%AA%20%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87%20%D8%A2%D8%B1%DB%8C%D8%A7%D9%86%20%D9%86%D8%AE%20%D8%A8%D8%A7%D9%81%20%DA%A9%D8%AF%201311%20%D8%A8%D8%B3%D8%AA%D9%87%203%20%D8%B9%D8%AF%D8%AF%DB%8C?variant_id=24427019&product_id=980661",
+        "https://www.digikala.com/product/dkp-21321141/%D9%BE%D8%A7%D9%88%D8%B1%D8%A8%D8%A7%D9%86%DA%A9%20%D8%A8%DB%8C%E2%80%8C%D8%B3%DB%8C%D9%85%2015%20%D9%88%D8%A7%D8%AA%20%DA%A9%DB%8C%D9%88%20%D8%B3%DB%8C%20%D9%88%D8%A7%DB%8C%20%D9%85%D8%AF%D9%84%20PBW10A%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%2010000%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D8%A2%D9%85%D9%BE%D8%B1%D8%B3%D8%A7%D8%B9%D8%AA?variant_id=83006753&product_id=21321141",
+        "https://www.digikala.com/product/dkp-22583887/%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%DA%A9%D8%B1%D8%A7%D8%B3%20%D9%85%D8%AF%D9%84%20%DB%8C%D9%82%D9%87%20%D9%87%D9%81%D8%AA?variant_id=83032582&product_id=22583887",
+        "https://www.digikala.com/product/dkp-22501094/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%A2%D9%86%D9%88%D8%A7%20%D9%85%D8%AF%D9%84%20%D9%87%DB%8C%D8%A7%D9%84%D9%88%D8%B1%D9%88%D9%86%DB%8C%DA%A9%20%D8%A7%D8%B3%DB%8C%D8%AF%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D9%88%D8%B3%D8%AA%20%D8%AD%D8%AC%D9%85%20100%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1?variant_id=82805003&product_id=22501094",
+        "https://www.digikala.com/product/dkp-22473258/%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%DA%86%D9%87%D8%A7%D8%B1%D9%81%D8%B5%D9%84%20%D8%AA%DB%8C%D9%88%D8%A8%D9%84%D8%B3%20%D8%B1%D9%88%D8%AF%D9%88%DB%8C%D9%86%DA%AF%20%D9%85%D8%AF%D9%84%20002%20%D8%A8%D8%A7%20%D8%B3%D8%A7%DB%8C%D8%B2%201656513%20%D8%A7%DB%8C%D9%86%DA%86%D8%8C%20%D8%B4%D8%A7%D8%AE%D8%B5%20%D8%AA%D8%AD%D9%85%D9%84%20%D9%88%D8%B2%D9%86%2077%D8%8C%20%D9%85%D9%86%D8%A7%D8%B3%D8%A8%20%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87%20%D8%B1%D9%88%D8%B2%D9%85%D8%B1%D9%87%20%D9%88%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%B3%D8%A7%D9%84%202024?variant_id=82535630&product_id=22473258",
+        "https://www.digikala.com/product/dkp-3212960/%D8%A8%D8%A7%DA%A9%D8%B3%20%D9%86%D8%B8%D9%85%20%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D8%AF%D9%88%D9%85%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20-TWO%20%DA%A9%D8%AF%20SHR-49?variant_id=80424616&product_id=3212960",
+        "https://www.digikala.com/faq/question/79",
+        "https://www.digikala.com/faq/question/81",
+        "https://www.digikala.com/page/contact-us",
+        "https://www.digikala.com/faq/question/83",
+        "https://www.digikala.com/faq/question/82",
+        "https://www.digikala.com/faq",
+        "https://www.digikala.com/page/terms",
+        "https://www.digikala.com/page/privacy",
+        "https://www.digikala.com/page/bug-report",
+        "https://www.digikala.com/faq/question/649",
+        "https://www.digikala.com/landings/new-app",
+        "https://www.digikala.com/landing/dkstores_general",
+        "https://www.digikala.com/search/category-mobile-phone",
+        "https://www.digikala.com/tags/iphone-17",
+        "https://www.digikala.com/tags/samsung-s25",
+        "https://www.digikala.com/product/dkp-17580036/%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%85%D8%AF%D9%84-redmi-note-14-4g-%D8%AF%D9%88-%D8%B3%DB%8C%D9%85-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-256-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA-%D9%88-%D8%B1%D9%85-8-%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA",
+        "https://www.digikala.com/search/category-tv2",
+        "https://www.digikala.com/search/category-speaker",
+        "https://www.digikala.com/landing/black-friday",
+        "https://www.digikala.com/landing/mothersday",
+        "https://www.digikala.com/landing/fathersday",
+        "https://www.digikala.com/tags/yalda-night-gift",
+        "https://www.digikala.com/tags/iphone-16",
+        "https://www.digikala.com/search/category-cell-phone-pouch-cover",
+        "https://www.digikala.com/search/category-headphone",
+        "https://www.digikala.com/search/category-mobile-phone/samsung",
+        "https://www.digikala.com/search/category-mobile-phone/xiaomi",
+        "https://www.digikala.com/search/category-stationery",
+        "https://www.digikala.com/search/category-moisturizing-cream",
+        "https://www.digikala.com/search/category-foundation",
+        "https://www.digikala.com/search/category-sunscreen-cream",
+        "https://www.digikala.com/search/category-lipstick",
+        "https://www.digikala.com/search/category-women-gold-necklace",
+        "https://www.digikala.com/search/category-women-gold-bracelet",
+        "https://www.digikala.com/search/category-gold-coin-collection",
+        "https://www.digikala.com/tags/sofa",
+        "https://www.digikala.com/search/category-pots-pans",
+        "https://www.digikala.com/search/category-sofa",
+        "https://www.digikala.com/search/category-bed",
+        "https://www.digikala.com/search/category-decorative-mirror",
+        "https://www.digikala.com/search/category-dairy",
+        "https://www.digikala.com/main/food-beverage",
+        "https://www.digikala.com/landing/watches",
+        "https://www.digikala.com/landing/football",
+        "https://www.digikala.com/search/category-sports-and_fitness-supplements",
+        "https://www.digikala.com/search/facet/category-medical-supplement/type-of-vitamins-and-minerals-magnesium",
+        "https://www.digikala.com/search/facet/category-medical-supplement/type-of-vitamins-and-minerals-zink",
+        "https://www.digikala.com/mag",
+        "https://www.digikala.com/digiclub"
+      ]
+    }
+  ],
+  "skipped": [],
+  "runs": [
+    {
+      "startedAt": "2026-10-15T11:04:20.232Z",
+      "options": {
+        "maxPages": 500,
+        "maxVisits": 150,
+        "perPattern": 2,
+        "maxDepth": 4,
+        "viewports": [
+          "desktop",
+          "mobile"
+        ],
+        "keepQuery": false,
+        "sliceHeight": 2000,
+        "delay": 800,
+        "format": "jpeg",
+        "quality": 80,
+        "saveHtml": true,
+        "dedupe": true,
+        "focus": true,
+        "threshold": 0.7,
+        "seeds": 0,
+        "fresh": false,
+        "only": [
+          "https://www.digikala.com/"
+        ],
+        "outDir": "C:\\MyData\\Projects\\Web\\Hapeec\\happec_shop\\tools\\site-capture\\captures",
+        "useAuth": false,
+        "headed": true
+      },
+      "captured": 1,
+      "skipped": 0,
+      "filled": 0,
+      "failed": 0,
+      "finishedAt": "2026-10-15T11:04:45.299Z",
+      "visits": 1
+    }
+  ],
+  "failed": [],
+  "pending": []
+}
