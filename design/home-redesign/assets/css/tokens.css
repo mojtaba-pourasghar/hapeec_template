@@ -1,0 +1,61 @@
+/* ==========================================================================
+   HAPEEC — design tokens
+   Single source of truth for the official brand palette and the layout,
+   type, spacing and radius scales used by the homepage.
+   ========================================================================== */
+
+:root {
+  /* ---- Official HAPEEC palette ------------------------------------------ */
+  --c-navy:         #0D1C31; /* headings, body text, header, footer          */
+  --c-orange:       #EC6A14; /* primary CTA, meaningful accents              */
+  --c-orange-dark:  #C2530A; /* text links on light backgrounds, hover       */
+  --c-white:        #FFFFFF; /* page background, cards                       */
+  --c-gray:         #F3F5F8; /* search field, separators, alternating areas  */
+  --c-steel:        #6B6B6B; /* secondary text, captions                     */
+
+  /* Derived, used only for hairlines and disabled states. Never as fill. */
+  --c-line:         #E6EAF0;
+  --c-navy-80:      rgba(13, 28, 49, .80);
+  --c-navy-55:      rgba(13, 28, 49, .55);
+
+  /* ---- Typography ------------------------------------------------------- */
+  /* Fonts already shipped with the HAPEEC Laravel theme. No new webfont is
+     downloaded or embedded; the stack degrades to the system UI face. */
+  --font-fa: "IRANSansX", "IRANSans", "IRANSansWeb", "Vazirmatn",
+             -apple-system, "Segoe UI", Tahoma, sans-serif;
+  --font-num: "IRANSansX", "IRANSans", -apple-system, "Segoe UI", Tahoma, sans-serif;
+
+  --fs-12: .75rem;    --fs-13: .8125rem;  --fs-14: .875rem;
+  --fs-15: .9375rem;  --fs-16: 1rem;      --fs-18: 1.125rem;
+  --fs-20: 1.25rem;   --fs-24: 1.5rem;    --fs-28: 1.75rem;
+
+  --fw-regular: 400;  --fw-medium: 500;   --fw-bold: 700;
+
+  --lh-tight: 1.35;   --lh-base: 1.7;
+
+  /* ---- Spacing ---------------------------------------------------------- */
+  --s-1: 4px;   --s-2: 8px;   --s-3: 12px;  --s-4: 16px;
+  --s-5: 20px;  --s-6: 24px;  --s-8: 32px;  --s-10: 40px;
+  --s-12: 48px; --s-16: 64px;
+
+  /* ---- Radius ----------------------------------------------------------- */
+  --r-sm: 6px;  --r-md: 10px; --r-lg: 14px; --r-pill: 999px;
+
+  /* ---- Layout ----------------------------------------------------------- */
+  --container: 1440px;
+  --gutter: 24px;
+  --header-h: 68px;
+
+  /* ---- Motion ----------------------------------------------------------- */
+  --ease: cubic-bezier(.2, .6, .25, 1);
+  --dur: .18s;
+}
+
+@media (max-width: 1024px) {
+  :root { --gutter: 16px; --header-h: 60px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur: 0s; }
+  *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+}

@@ -1,0 +1,1358 @@
+{
+ "announcement": {
+  "href": null,
+  "img": "https://test.happenengrave.com/uploads/banners/7001ff9c4ee35a38e1abed03e3e95165.gif",
+  "alt": "بنر تخفیف کولر گازی"
+ },
+ "subnav": [
+  {
+   "text": "شگفت‌انگیزها",
+   "href": "https://test.happenengrave.com/fa/flash-sale",
+   "icon": "fa-bolt",
+   "hot": true
+  },
+  {
+   "text": "موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?type=motorcycle",
+   "icon": "fa-motorcycle",
+   "hot": false
+  },
+  {
+   "text": "لوازم یدکی",
+   "href": "https://test.happenengrave.com/fa/products?type=parts",
+   "icon": "fa-gears",
+   "hot": false
+  },
+  {
+   "text": "پرفروش‌ترین‌ها",
+   "href": "https://test.happenengrave.com/fa/products?sort=bestselling",
+   "icon": "fa-fire",
+   "hot": false
+  },
+  {
+   "text": "مجله",
+   "href": "https://test.happenengrave.com/fa/blogs",
+   "icon": "fa-newspaper",
+   "hot": false
+  }
+ ],
+ "sell_cta": {
+  "text": "در هپیک بفروشید!",
+  "href": "https://test.happenengrave.com/fa/seller-center/login"
+ },
+ "mega": [
+  {
+   "title": "موتور سیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=1",
+   "links": [
+    {
+     "text": "موتور شهری",
+     "href": "https://test.happenengrave.com/fa/products?categories=2"
+    },
+    {
+     "text": "اسکوتر",
+     "href": "https://test.happenengrave.com/fa/products?categories=3"
+    },
+    {
+     "text": "موتور کراس و آفرود",
+     "href": "https://test.happenengrave.com/fa/products?categories=7"
+    },
+    {
+     "text": "موتور برقی",
+     "href": "https://test.happenengrave.com/fa/products?categories=8"
+    }
+   ]
+  },
+  {
+   "title": "لوازم موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=4",
+   "links": [
+    {
+     "text": "لوازم مصرفی",
+     "href": "https://test.happenengrave.com/fa/products?categories=5"
+    },
+    {
+     "text": "لوازم یدکی",
+     "href": "https://test.happenengrave.com/fa/products?categories=6"
+    },
+    {
+     "text": "کلاه کاسکت و عینک",
+     "href": "https://test.happenengrave.com/fa/products?categories=9"
+    },
+    {
+     "text": "دستکش موتورسیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=10"
+    },
+    {
+     "text": "لاستیک موتورسیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=11"
+    },
+    {
+     "text": "روغن موتور سیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=12"
+    },
+    {
+     "text": "باتری موتورسیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=13"
+    },
+    {
+     "text": "لنت ترمز موتورسیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=14"
+    },
+    {
+     "text": "شمع موتورسیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=15"
+    },
+    {
+     "text": "چراغ و لامپ موتور",
+     "href": "https://test.happenengrave.com/fa/products?categories=16"
+    },
+    {
+     "text": "اگزوز موتور سیکلت",
+     "href": "https://test.happenengrave.com/fa/products?categories=17"
+    },
+    {
+     "text": "قفل و دزدگیر موتور",
+     "href": "https://test.happenengrave.com/fa/products?categories=18"
+    },
+    {
+     "text": "باکس و ترک‌بند",
+     "href": "https://test.happenengrave.com/fa/products?categories=19"
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "6",
+   "label": "موزه موتور ملی",
+   "img": "https://test.happenengrave.com/uploads/stories/story04.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story04.jpg"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "label": "نقاشی موتور",
+   "img": "https://test.happenengrave.com/uploads/stories/story19.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story19.jpg"
+    },
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv19.mp4"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "label": "موتور در طبیعت",
+   "img": "https://test.happenengrave.com/uploads/stories/story18.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story18.jpg"
+    },
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv18.mp4"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "label": "معرفی موتور ماریو",
+   "img": "https://test.happenengrave.com/uploads/stories/story17.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story17.jpg"
+    },
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv17.mp4"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "label": "موتور در برف",
+   "img": "https://test.happenengrave.com/uploads/stories/stv5.jpg",
+   "slides": [
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv5.mp4"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "label": "گردهمایی موتورسواران",
+   "img": "https://test.happenengrave.com/uploads/stories/stv4.jpg",
+   "slides": [
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv4.mp4"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "label": "ترمز برمبو",
+   "img": "https://test.happenengrave.com/uploads/stories/stv3.jpg",
+   "slides": [
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv3.mp4"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "label": "موتورسواری دو نفره",
+   "img": "https://test.happenengrave.com/uploads/stories/stv2.jpg",
+   "slides": [
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv2.mp4"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "label": "موتور ایندین آبی",
+   "img": "https://test.happenengrave.com/uploads/stories/stv1.jpg",
+   "slides": [
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv1.mp4"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "label": "نمایش ایندین‌ها",
+   "img": "https://test.happenengrave.com/uploads/stories/story10.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story10.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "label": "ایندین قدیمی",
+   "img": "https://test.happenengrave.com/uploads/stories/story09.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story09.jpg"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "label": "تعمیر لاستیک موتور",
+   "img": "https://test.happenengrave.com/uploads/stories/story08.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story08.jpg"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "label": "کلکسیون ایندین",
+   "img": "https://test.happenengrave.com/uploads/stories/story07.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story07.jpg"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "label": "موزه ایندین",
+   "img": "https://test.happenengrave.com/uploads/stories/story06.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story06.jpg"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "label": "هفته موتور سامویی",
+   "img": "https://test.happenengrave.com/uploads/stories/story05.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story05.jpg"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "label": "تست هوندا",
+   "img": "https://test.happenengrave.com/uploads/stories/story20.jpg",
+   "slides": [
+    {
+     "type": "image",
+     "media": "https://test.happenengrave.com/uploads/stories/story20.jpg"
+    },
+    {
+     "type": "video",
+     "media": "https://test.happenengrave.com/uploads/stories/stv20.mp4"
+    }
+   ]
+  }
+ ],
+ "hero": [
+  {
+   "img": "https://test.happenengrave.com/uploads/sliders/d6900a62144ae08884d188fda4cac554.png",
+   "alt": "اسلایدر تابستون"
+  },
+  {
+   "img": "https://test.happenengrave.com/uploads/sliders/c7b45fe0e28e9daa6feac079180b2e50.png",
+   "alt": "اسلایدر تابستون"
+  },
+  {
+   "img": "https://test.happenengrave.com/uploads/sliders/f32d788edf8a4e8a5d88adf3c985423a.jpg",
+   "alt": "اسلایدر تابستون"
+  }
+ ],
+ "moto": [
+  {
+   "name": "همه قطعات",
+   "cc": "",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=0"
+  },
+  {
+   "name": "هوندا CG 125",
+   "cc": "125cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=1"
+  },
+  {
+   "name": "هوندا کلیک 150",
+   "cc": "150cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=3"
+  },
+  {
+   "name": "هوندا کلیک 170",
+   "cc": "170cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=4"
+  },
+  {
+   "name": "هوندا PCX 160",
+   "cc": "160cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=5"
+  },
+  {
+   "name": "یاماها NVX 155",
+   "cc": "155cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=9"
+  },
+  {
+   "name": "یاماها NVX آلفا 170",
+   "cc": "170cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=10"
+  },
+  {
+   "name": "یاماها ایروکس 155",
+   "cc": "155cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=11"
+  },
+  {
+   "name": "کبیر گلکسی 180",
+   "cc": "180cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=15"
+  },
+  {
+   "name": "نیرو ES الکتریک",
+   "cc": "",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=18"
+  },
+  {
+   "name": "نیرو سیتی EV",
+   "cc": "",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=19"
+  },
+  {
+   "name": "پیشتاز آپاچی 180",
+   "cc": "180cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=21"
+  },
+  {
+   "name": "باجاج پالس 180",
+   "cc": "180cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=23"
+  },
+  {
+   "name": "کویر 200 اندورو",
+   "cc": "200cc",
+   "href": "https://test.happenengrave.com/fa/products?type=parts&motorcycle_model_id=28"
+  }
+ ],
+ "trust": [
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/1.svg",
+   "text": "پشتیبانی ۲۴/۷"
+  },
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/2.svg",
+   "text": "پرداخت امن"
+  },
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/3.svg",
+   "text": "ارسال سراسری"
+  },
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/4.svg",
+   "text": "ضمانت ۷ روزه بازگشت وجه"
+  },
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/5.svg",
+   "text": "دستیار AI هوشمند"
+  },
+  {
+   "img": "https://test.happenengrave.com/themes/frontend/hapeec/assets/images/trust/6.svg",
+   "text": "کارشناسی تخصصی رایگان"
+  }
+ ],
+ "categories": [
+  {
+   "name": "موتور سیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=1",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-motor.svg"
+  },
+  {
+   "name": "لوازم موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=4",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-parts.svg"
+  },
+  {
+   "name": "موتور شهری",
+   "href": "https://test.happenengrave.com/fa/products?categories=2",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-urban.svg"
+  },
+  {
+   "name": "اسکوتر",
+   "href": "https://test.happenengrave.com/fa/products?categories=3",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-scooter.svg"
+  },
+  {
+   "name": "لوازم مصرفی",
+   "href": "https://test.happenengrave.com/fa/products?categories=5",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-oil.svg"
+  },
+  {
+   "name": "لوازم یدکی",
+   "href": "https://test.happenengrave.com/fa/products?categories=6",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-spare.svg"
+  },
+  {
+   "name": "موتور کراس و آفرود",
+   "href": "https://test.happenengrave.com/fa/products?categories=7",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-cross.svg"
+  },
+  {
+   "name": "موتور برقی",
+   "href": "https://test.happenengrave.com/fa/products?categories=8",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-electric.svg"
+  },
+  {
+   "name": "کلاه کاسکت و عینک",
+   "href": "https://test.happenengrave.com/fa/products?categories=9",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-helmet.svg"
+  },
+  {
+   "name": "دستکش موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=10",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-gloves.svg"
+  },
+  {
+   "name": "لاستیک موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=11",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-tire.svg"
+  },
+  {
+   "name": "روغن موتور سیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=12",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-oil.svg"
+  },
+  {
+   "name": "باتری موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=13",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-battery.svg"
+  },
+  {
+   "name": "لنت ترمز موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=14",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-brake.svg"
+  },
+  {
+   "name": "شمع موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=15",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-spark.svg"
+  },
+  {
+   "name": "چراغ و لامپ موتور",
+   "href": "https://test.happenengrave.com/fa/products?categories=16",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-lamp.svg"
+  },
+  {
+   "name": "اگزوز موتور سیکلت",
+   "href": "https://test.happenengrave.com/fa/products?categories=17",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-exhaust.svg"
+  },
+  {
+   "name": "قفل و دزدگیر موتور",
+   "href": "https://test.happenengrave.com/fa/products?categories=18",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-lock.svg"
+  },
+  {
+   "name": "باکس و ترک‌بند",
+   "href": "https://test.happenengrave.com/fa/products?categories=19",
+   "img": "https://test.happenengrave.com/uploads/product_categories/cat-box.svg"
+  }
+ ],
+ "flash": {
+  "title": "فروش فوری این هفته",
+  "sub": "فرصت محدود — بهترین قیمت‌ها، فقط تا پایان تایمر",
+  "end": "1792700999",
+  "cta": "مشاهده فروش فوری",
+  "cta_href": "https://test.happenengrave.com/fa/flash-sale"
+ },
+ "grids": {
+  "flashGrid": [
+   {
+    "title": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا",
+    "href": "https://test.happenengrave.com/product/hpc-4143172",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/21154d728bdded1ac7a87f85683f38f2.jpeg",
+    "discount": "33.3٪",
+    "price": "200,000",
+    "old": "300,000",
+    "pid": "7"
+   },
+   {
+    "title": "چراغ LED جلو",
+    "href": "https://test.happenengrave.com/product/led-headlight",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product25.jpg",
+    "discount": "10٪",
+    "price": "99,000",
+    "old": "110,000",
+    "pid": "36"
+   },
+   {
+    "title": "قفل دیسک موتور",
+    "href": "https://test.happenengrave.com/product/disc-lock",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product29.jpg",
+    "discount": "9.4٪",
+    "price": "145,000",
+    "old": "160,000",
+    "pid": "40"
+   },
+   {
+    "title": "شمع NGK اصلی",
+    "href": "https://test.happenengrave.com/product/ngk-spark-plug",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product23.jpg",
+    "discount": "9.2٪",
+    "price": "34,500",
+    "old": "38,000",
+    "pid": "34"
+   },
+   {
+    "title": "فیلتر هوای اسفنجی",
+    "href": "https://test.happenengrave.com/product/foam-air-filter",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product35.jpg",
+    "discount": "8.9٪",
+    "price": "41,000",
+    "old": "45,000",
+    "pid": "46"
+   },
+   {
+    "title": "زنجیر DID ژاپن",
+    "href": "https://test.happenengrave.com/product/did-drive-chain",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product33.jpg",
+    "discount": "8.7٪",
+    "price": "210,000",
+    "old": "230,000",
+    "pid": "44"
+   },
+   {
+    "title": "دستکش چرم موتورسواری",
+    "href": "https://test.happenengrave.com/product/leather-riding-gloves",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product13.jpg",
+    "discount": "8.3٪",
+    "price": "165,000",
+    "old": "180,000",
+    "pid": "24"
+   },
+   {
+    "title": "آینه بغل",
+    "href": "https://test.happenengrave.com/product/side-mirror",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product37.jpg",
+    "discount": "8.1٪",
+    "price": "57,000",
+    "old": "62,000",
+    "pid": "48"
+   },
+   {
+    "title": "روغن موتول 10W40 یک لیتری",
+    "href": "https://test.happenengrave.com/product/motul-oil-10w40",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product17.jpg",
+    "discount": "7.9٪",
+    "price": "129,000",
+    "old": "140,000",
+    "pid": "28"
+   },
+   {
+    "title": "لاستیک ایران‌یاسا عقب 300-17",
+    "href": "https://test.happenengrave.com/product/yasa-rear-tire-300",
+    "img": "https://test.happenengrave.com/uploads/products/thumbnail/product15.jpg",
+    "discount": "7.8٪",
+    "price": "295,000",
+    "old": "320,000",
+    "pid": "26"
+   }
+  ],
+  "motorGrid": {
+   "title": "خرید موتورسیکلت",
+   "id": "motorcycles",
+   "more": null,
+   "items": [
+    {
+     "title": "موتورسیکلت کبیرموتور مدل NVXalpha-170CC سال ساخت 1405",
+     "href": "https://test.happenengrave.com/product/motorsyklt-kbyrmotor-mdl-nvxalpha-170cc-sal-sakht-1405",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/061ee07bff7f5ec81ea74ae228c55daf.jpeg",
+     "discount": "2.3٪",
+     "price": "42,000,000",
+     "old": "43,000,000",
+     "pid": "6"
+    },
+    {
+     "title": "موتورسیکلت کبیر موتور مدل هوندا کلیک آپ 170 سی سی سال 1404",
+     "href": "https://test.happenengrave.com/product/hpc-20549287",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/221aae184008507b0c480e304e5bbdb9.jpeg",
+     "discount": "0.3٪",
+     "price": "35,000,000",
+     "old": "35,100,000",
+     "pid": "8"
+    },
+    {
+     "title": "موتورسیکلت نیرو موتور مدل گلکسی اس وای ام NA180cc سال 1405",
+     "href": "https://test.happenengrave.com/product/hpc-22395073",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/aa3b6f182542ac10b0ac7b9c984d115b.jpeg",
+     "discount": null,
+     "price": "67,400,000",
+     "old": null,
+     "pid": "11"
+    },
+    {
+     "title": "موتورسیکلت هوندا کلیک 170",
+     "href": "https://test.happenengrave.com/product/honda-click-170",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product01.jpg",
+     "discount": "6.1٪",
+     "price": "39,900,000",
+     "old": "42,500,000",
+     "pid": "12"
+    },
+    {
+     "title": "موتورسیکلت یاماها NVX 155",
+     "href": "https://test.happenengrave.com/product/yamaha-nvx-155",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product02.jpg",
+     "discount": null,
+     "price": "39,000,000",
+     "old": null,
+     "pid": "13"
+    },
+    {
+     "title": "موتورسیکلت کبیر طرح هوندا 125",
+     "href": "https://test.happenengrave.com/product/kabir-honda-125",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product03.jpg",
+     "discount": "6.1٪",
+     "price": "13,900,000",
+     "old": "14,800,000",
+     "pid": "14"
+    },
+    {
+     "title": "موتورسیکلت نیروموتور گلکسی 180",
+     "href": "https://test.happenengrave.com/product/niroo-galaxy-180",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product04.jpg",
+     "discount": null,
+     "price": "26,500,000",
+     "old": null,
+     "pid": "15"
+    },
+    {
+     "title": "موتورسیکلت هوندا CRF کراس 250",
+     "href": "https://test.happenengrave.com/product/honda-crf-250",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product05.jpg",
+     "discount": "4.6٪",
+     "price": "84,900,000",
+     "old": "89,000,000",
+     "pid": "16"
+    },
+    {
+     "title": "موتورسیکلت یاماها ایروکس 155",
+     "href": "https://test.happenengrave.com/product/yamaha-aerox-155",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product06.jpg",
+     "discount": null,
+     "price": "41,000,000",
+     "old": null,
+     "pid": "17"
+    },
+    {
+     "title": "موتورسیکلت برقی کبیر ES",
+     "href": "https://test.happenengrave.com/product/kabir-es-electric",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product07.jpg",
+     "discount": "5.1٪",
+     "price": "18,500,000",
+     "old": "19,500,000",
+     "pid": "18"
+    }
+   ]
+  },
+  "partGrid": {
+   "title": "قطعات و لوازم جانبی",
+   "id": "parts",
+   "more": null,
+   "items": [
+    {
+     "title": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا",
+     "href": "https://test.happenengrave.com/product/hpc-4143172",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/21154d728bdded1ac7a87f85683f38f2.jpeg",
+     "discount": "33.3٪",
+     "price": "200,000",
+     "old": "300,000",
+     "pid": "7"
+    },
+    {
+     "title": "باک موتورسیکلت تیزرو یدک پارس کد MF2000307 به همراه قاب بغل",
+     "href": "https://test.happenengrave.com/product/hpc-20888988",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/79e71179ea1d8ea35b02e71c213547e2.jpeg",
+     "discount": null,
+     "price": "280,000",
+     "old": null,
+     "pid": "10"
+    },
+    {
+     "title": "کلاه کاسکت شویی M",
+     "href": "https://test.happenengrave.com/product/shoei-helmet-m",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product11.jpg",
+     "discount": "5.6٪",
+     "price": "1,180,000",
+     "old": "1,250,000",
+     "pid": "22"
+    },
+    {
+     "title": "کلاه کاسکت شویی L",
+     "href": "https://test.happenengrave.com/product/shoei-helmet-l",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product12.jpg",
+     "discount": null,
+     "price": "1,280,000",
+     "old": null,
+     "pid": "23"
+    },
+    {
+     "title": "دستکش چرم موتورسواری",
+     "href": "https://test.happenengrave.com/product/leather-riding-gloves",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product13.jpg",
+     "discount": "8.3٪",
+     "price": "165,000",
+     "old": "180,000",
+     "pid": "24"
+    },
+    {
+     "title": "دستکش توری تابستانه",
+     "href": "https://test.happenengrave.com/product/mesh-summer-gloves",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product14.jpg",
+     "discount": null,
+     "price": "95,000",
+     "old": null,
+     "pid": "25"
+    },
+    {
+     "title": "لاستیک ایران‌یاسا عقب 300-17",
+     "href": "https://test.happenengrave.com/product/yasa-rear-tire-300",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product15.jpg",
+     "discount": "7.8٪",
+     "price": "295,000",
+     "old": "320,000",
+     "pid": "26"
+    },
+    {
+     "title": "لاستیک ایران‌یاسا جلو 275-17",
+     "href": "https://test.happenengrave.com/product/yasa-front-tire-275",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product16.jpg",
+     "discount": null,
+     "price": "270,000",
+     "old": null,
+     "pid": "27"
+    },
+    {
+     "title": "روغن موتول 10W40 یک لیتری",
+     "href": "https://test.happenengrave.com/product/motul-oil-10w40",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product17.jpg",
+     "discount": "7.9٪",
+     "price": "129,000",
+     "old": "140,000",
+     "pid": "28"
+    },
+    {
+     "title": "روغن موتول 20W50",
+     "href": "https://test.happenengrave.com/product/motul-oil-20w50",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product18.jpg",
+     "discount": null,
+     "price": "130,000",
+     "old": null,
+     "pid": "29"
+    }
+   ]
+  },
+  "prodGrid": {
+   "title": "پیشنهادات این هفته",
+   "id": "products",
+   "more": null,
+   "items": [
+    {
+     "title": "موتورسیکلت کبیرموتور مدل NVXalpha-170CC سال ساخت 1405",
+     "href": "https://test.happenengrave.com/product/motorsyklt-kbyrmotor-mdl-nvxalpha-170cc-sal-sakht-1405",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/061ee07bff7f5ec81ea74ae228c55daf.jpeg",
+     "discount": "2.3٪",
+     "price": "42,000,000",
+     "old": "43,000,000",
+     "pid": "6"
+    },
+    {
+     "title": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا",
+     "href": "https://test.happenengrave.com/product/hpc-4143172",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/21154d728bdded1ac7a87f85683f38f2.jpeg",
+     "discount": "33.3٪",
+     "price": "200,000",
+     "old": "300,000",
+     "pid": "7"
+    },
+    {
+     "title": "موتورسیکلت کبیر موتور مدل هوندا کلیک آپ 170 سی سی سال 1404",
+     "href": "https://test.happenengrave.com/product/hpc-20549287",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/221aae184008507b0c480e304e5bbdb9.jpeg",
+     "discount": "0.3٪",
+     "price": "35,000,000",
+     "old": "35,100,000",
+     "pid": "8"
+    },
+    {
+     "title": "باک موتورسیکلت تیزرو یدک پارس کد MF2000307 به همراه قاب بغل",
+     "href": "https://test.happenengrave.com/product/hpc-20888988",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/79e71179ea1d8ea35b02e71c213547e2.jpeg",
+     "discount": null,
+     "price": "280,000",
+     "old": null,
+     "pid": "10"
+    },
+    {
+     "title": "موتورسیکلت نیرو موتور مدل گلکسی اس وای ام NA180cc سال 1405",
+     "href": "https://test.happenengrave.com/product/hpc-22395073",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/aa3b6f182542ac10b0ac7b9c984d115b.jpeg",
+     "discount": null,
+     "price": "67,400,000",
+     "old": null,
+     "pid": "11"
+    },
+    {
+     "title": "موتورسیکلت هوندا کلیک 170",
+     "href": "https://test.happenengrave.com/product/honda-click-170",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product01.jpg",
+     "discount": "6.1٪",
+     "price": "39,900,000",
+     "old": "42,500,000",
+     "pid": "12"
+    },
+    {
+     "title": "موتورسیکلت یاماها NVX 155",
+     "href": "https://test.happenengrave.com/product/yamaha-nvx-155",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product02.jpg",
+     "discount": null,
+     "price": "39,000,000",
+     "old": null,
+     "pid": "13"
+    },
+    {
+     "title": "موتورسیکلت کبیر طرح هوندا 125",
+     "href": "https://test.happenengrave.com/product/kabir-honda-125",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product03.jpg",
+     "discount": "6.1٪",
+     "price": "13,900,000",
+     "old": "14,800,000",
+     "pid": "14"
+    },
+    {
+     "title": "موتورسیکلت نیروموتور گلکسی 180",
+     "href": "https://test.happenengrave.com/product/niroo-galaxy-180",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product04.jpg",
+     "discount": null,
+     "price": "26,500,000",
+     "old": null,
+     "pid": "15"
+    },
+    {
+     "title": "موتورسیکلت هوندا CRF کراس 250",
+     "href": "https://test.happenengrave.com/product/honda-crf-250",
+     "img": "https://test.happenengrave.com/uploads/products/thumbnail/product05.jpg",
+     "discount": "4.6٪",
+     "price": "84,900,000",
+     "old": "89,000,000",
+     "pid": "16"
+    }
+   ]
+  }
+ },
+ "mid_banners": [
+  {
+   "href": "https://test.happenengrave.com/fa/banner/7/click",
+   "img": "https://test.happenengrave.com/uploads/banners/e24b685003010a10be28801c8f02d950.webp",
+   "alt": "تست موتور"
+  }
+ ],
+ "videos": [
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto01.jpg",
+   "title": "بررسی صدای انجین دودکش کراس",
+   "video": "https://test.happenengrave.com/uploads/videos/moto01.mp4",
+   "views": "15,200 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto02.jpg",
+   "title": "آموزش سوار شدن بر موتور",
+   "video": "https://test.happenengrave.com/uploads/videos/moto02.mp4",
+   "views": "9,800 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto03.jpg",
+   "title": "کمپین ایمنی موتورسواری",
+   "video": "https://test.happenengrave.com/uploads/videos/moto03.mp4",
+   "views": "22,100 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto04.jpg",
+   "title": "روشن کردن موتور دراگون ۲۲۲",
+   "video": "https://test.happenengrave.com/uploads/videos/moto04.mp4",
+   "views": "7,400 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto05.jpg",
+   "title": "رالی موتورسواران",
+   "video": "https://test.happenengrave.com/uploads/videos/moto05.mp4",
+   "views": "18,900 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto06.jpg",
+   "title": "موتورسواری خیابانی در شهر",
+   "video": "https://test.happenengrave.com/uploads/videos/moto06.mp4",
+   "views": "31,500 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto07.jpg",
+   "title": "معرفی موتور ماریو کلف",
+   "video": "https://test.happenengrave.com/uploads/videos/moto07.mp4",
+   "views": "6,200 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto08.jpg",
+   "title": "موتورسواری در طبیعت",
+   "video": "https://test.happenengrave.com/uploads/videos/moto08.mp4",
+   "views": "11,300 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto09.jpg",
+   "title": "نقاشی دیواری موتورسیکلت",
+   "video": "https://test.happenengrave.com/uploads/videos/moto09.mp4",
+   "views": "8,700 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto10.jpg",
+   "title": "تست هوندا CB1000R در گوام",
+   "video": "https://test.happenengrave.com/uploads/videos/moto10.mp4",
+   "views": "27,600 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto11.jpg",
+   "title": "نمایشگاه موتودیز ۲۰۱۷",
+   "video": "https://test.happenengrave.com/uploads/videos/moto11.mp4",
+   "views": "5,400 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto12.jpg",
+   "title": "تبدیل موتور بنزینی به برقی",
+   "video": "https://test.happenengrave.com/uploads/videos/moto12.mp4",
+   "views": "19,800 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto13.jpg",
+   "title": "حمل بار با موتورسیکلت",
+   "video": "https://test.happenengrave.com/uploads/videos/moto13.mp4",
+   "views": "13,400 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto14.jpg",
+   "title": "نکات ایمنی موتورسواری",
+   "video": "https://test.happenengrave.com/uploads/videos/moto14.mp4",
+   "views": "17,600 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto15.jpg",
+   "title": "پشت صحنه ایمنی موتورسواری",
+   "video": "https://test.happenengrave.com/uploads/videos/moto15.mp4",
+   "views": "9,100 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto16.jpg",
+   "title": "تور موتورسواری ۲۰۲۴",
+   "video": "https://test.happenengrave.com/uploads/videos/moto16.mp4",
+   "views": "24,300 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto17.jpg",
+   "title": "نمایش ایمنی موتورسیکلت",
+   "video": "https://test.happenengrave.com/uploads/videos/moto17.mp4",
+   "views": "16,800 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto18.jpg",
+   "title": "موتورسواری تا خانه",
+   "video": "https://test.happenengrave.com/uploads/videos/moto18.mp4",
+   "views": "7,900 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto19.jpg",
+   "title": "گردهمایی موتورسواران",
+   "video": "https://test.happenengrave.com/uploads/videos/moto19.mp4",
+   "views": "20,100 بازدید"
+  },
+  {
+   "cover": "https://test.happenengrave.com/uploads/videos/covers/moto20.jpg",
+   "title": "خیابان‌گردی با موتور",
+   "video": "https://test.happenengrave.com/uploads/videos/moto20.mp4",
+   "views": "10,500 بازدید"
+  }
+ ],
+ "brands": [
+  {
+   "name": "یاماها",
+   "href": "https://test.happenengrave.com/fa/products?brands=1",
+   "logo": null
+  },
+  {
+   "name": "NGK",
+   "href": "https://test.happenengrave.com/fa/products?brands=2",
+   "logo": null
+  },
+  {
+   "name": "Denso",
+   "href": "https://test.happenengrave.com/fa/products?brands=3",
+   "logo": null
+  },
+  {
+   "name": "Honda",
+   "href": "https://test.happenengrave.com/fa/products?brands=4",
+   "logo": null
+  },
+  {
+   "name": "کبیرموتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=5",
+   "logo": null
+  },
+  {
+   "name": "ایران یاسا",
+   "href": "https://test.happenengrave.com/fa/products?brands=6",
+   "logo": null
+  },
+  {
+   "name": "یدک پارس",
+   "href": "https://test.happenengrave.com/fa/products?brands=7",
+   "logo": null
+  },
+  {
+   "name": "نیرو موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=8",
+   "logo": null
+  },
+  {
+   "name": "شویی",
+   "href": "https://test.happenengrave.com/fa/products?brands=9",
+   "logo": null
+  },
+  {
+   "name": "موتول",
+   "href": "https://test.happenengrave.com/fa/products?brands=10",
+   "logo": null
+  },
+  {
+   "name": "برمبو",
+   "href": "https://test.happenengrave.com/fa/products?brands=11",
+   "logo": null
+  },
+  {
+   "name": "پیشتاز موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=12",
+   "logo": null
+  },
+  {
+   "name": "باجاج",
+   "href": "https://test.happenengrave.com/fa/products?brands=13",
+   "logo": null
+  },
+  {
+   "name": "SYM",
+   "href": "https://test.happenengrave.com/fa/products?brands=14",
+   "logo": null
+  },
+  {
+   "name": "کویر موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=15",
+   "logo": null
+  },
+  {
+   "name": "یاماها",
+   "href": "https://test.happenengrave.com/fa/products?brands=1",
+   "logo": null
+  },
+  {
+   "name": "NGK",
+   "href": "https://test.happenengrave.com/fa/products?brands=2",
+   "logo": null
+  },
+  {
+   "name": "Denso",
+   "href": "https://test.happenengrave.com/fa/products?brands=3",
+   "logo": null
+  },
+  {
+   "name": "Honda",
+   "href": "https://test.happenengrave.com/fa/products?brands=4",
+   "logo": null
+  },
+  {
+   "name": "کبیرموتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=5",
+   "logo": null
+  },
+  {
+   "name": "ایران یاسا",
+   "href": "https://test.happenengrave.com/fa/products?brands=6",
+   "logo": null
+  },
+  {
+   "name": "یدک پارس",
+   "href": "https://test.happenengrave.com/fa/products?brands=7",
+   "logo": null
+  },
+  {
+   "name": "نیرو موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=8",
+   "logo": null
+  },
+  {
+   "name": "شویی",
+   "href": "https://test.happenengrave.com/fa/products?brands=9",
+   "logo": null
+  },
+  {
+   "name": "موتول",
+   "href": "https://test.happenengrave.com/fa/products?brands=10",
+   "logo": null
+  },
+  {
+   "name": "برمبو",
+   "href": "https://test.happenengrave.com/fa/products?brands=11",
+   "logo": null
+  },
+  {
+   "name": "پیشتاز موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=12",
+   "logo": null
+  },
+  {
+   "name": "باجاج",
+   "href": "https://test.happenengrave.com/fa/products?brands=13",
+   "logo": null
+  },
+  {
+   "name": "SYM",
+   "href": "https://test.happenengrave.com/fa/products?brands=14",
+   "logo": null
+  },
+  {
+   "name": "کویر موتور",
+   "href": "https://test.happenengrave.com/fa/products?brands=15",
+   "logo": null
+  }
+ ],
+ "blog": [
+  {
+   "title": "پیست و موتورسواری ورزشی",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-30",
+   "img": "https://test.happenengrave.com/uploads/blogs/article30.jpg",
+   "tag": "لوازم و قطعات",
+   "date": "1405/07/04"
+  },
+  {
+   "title": "بیمه موتورسیکلت",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-29",
+   "img": "https://test.happenengrave.com/uploads/blogs/article29.jpg",
+   "tag": "آموزش موتورسیکلت",
+   "date": "1405/07/03"
+  },
+  {
+   "title": "راهنمای خرید موتور دست‌دوم",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-28",
+   "img": "https://test.happenengrave.com/uploads/blogs/article28.jpg",
+   "tag": "ایمنی موتورسواری",
+   "date": "1405/07/02"
+  },
+  {
+   "title": "کم‌کردن روغن؛ راه‌حل",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-27",
+   "img": "https://test.happenengrave.com/uploads/blogs/article27.jpg",
+   "tag": "بررسی و راهنمای خرید",
+   "date": "1405/07/01"
+  },
+  {
+   "title": "لرزش فرمان؛ علت‌ها",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-26",
+   "img": "https://test.happenengrave.com/uploads/blogs/article26.jpg",
+   "tag": "لوازم و قطعات",
+   "date": "1405/06/31"
+  },
+  {
+   "title": "صداهای غیرعادی انجین",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-25",
+   "img": "https://test.happenengrave.com/uploads/blogs/article25.jpg",
+   "tag": "آموزش موتورسیکلت",
+   "date": "1405/06/30"
+  },
+  {
+   "title": "زمستان و نگهداری موتور",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-24",
+   "img": "https://test.happenengrave.com/uploads/blogs/article24.jpg",
+   "tag": "ایمنی موتورسواری",
+   "date": "1405/06/29"
+  },
+  {
+   "title": "آماده‌سازی موتور برای سفر",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-23",
+   "img": "https://test.happenengrave.com/uploads/blogs/article23.jpg",
+   "tag": "بررسی و راهنمای خرید",
+   "date": "1405/06/28"
+  },
+  {
+   "title": "موتورسواری در ترافیک شهر",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-22",
+   "img": "https://test.happenengrave.com/uploads/blogs/article22.jpg",
+   "tag": "لوازم و قطعات",
+   "date": "1405/06/27"
+  },
+  {
+   "title": "رانندگی ایمن در باران",
+   "href": "https://test.happenengrave.com/fa/blog/moto-mag-21",
+   "img": "https://test.happenengrave.com/uploads/blogs/article21.jpg",
+   "tag": "آموزش موتورسیکلت",
+   "date": "1405/06/26"
+  }
+ ],
+ "footer": {
+  "desc": "بزرگ‌ترین اکوسیستم دیجیتال موتورسیکلت ایران. خرید، فروش، کارشناسی، قطعات و دستیار هوشمند AI در یک پلتفرم.",
+  "links": [
+   {
+    "text": "پنل فروشندگان",
+    "href": "https://test.happenengrave.com/fa/seller-center/login"
+   },
+   {
+    "text": "درباره ما",
+    "href": "https://test.happenengrave.com/fa/about-us"
+   },
+   {
+    "text": "مقالات و بلاگ",
+    "href": "https://test.happenengrave.com/fa/blogs"
+   },
+   {
+    "text": "سوالات متداول",
+    "href": "https://test.happenengrave.com/fa/faqs"
+   },
+   {
+    "text": "قوانین و مقررات",
+    "href": "https://test.happenengrave.com/fa/terms"
+   },
+   {
+    "text": "حریم خصوصی",
+    "href": "https://test.happenengrave.com/fa/privacy"
+   },
+   {
+    "text": "تماس با ما",
+    "href": "https://test.happenengrave.com/fa/contact"
+   }
+  ],
+  "socials": [
+   {
+    "title": "اینستاگرام",
+    "icon": "fa-instagram",
+    "href": "#"
+   },
+   {
+    "title": "تلگرام",
+    "icon": "fa-telegram",
+    "href": "#"
+   },
+   {
+    "title": "یوتیوب",
+    "icon": "fa-youtube",
+    "href": "#"
+   },
+   {
+    "title": "لینکدین",
+    "icon": "fa-linkedin-in",
+    "href": "#"
+   },
+   {
+    "title": "توییتر",
+    "icon": "fa-twitter",
+    "href": "#"
+   }
+  ],
+  "copy": "© ۱۴۰۴ HAPEEC — تمامی حقوق محفوظ است",
+  "badges": [
+   "SSL امن",
+   "نماد اعتماد",
+   "۷ روزه ضمانت",
+   "پشتیبانی ۲۴/۷"
+  ]
+ },
+ "mobnav": [
+  {
+   "text": "خانه",
+   "href": "https://test.happenengrave.com/fa"
+  },
+  {
+   "text": "جستجو",
+   "href": "https://test.happenengrave.com/fa/products"
+  },
+  {
+   "text": "0 سبد",
+   "href": "https://test.happenengrave.com/fa/cart"
+  },
+  {
+   "text": "ورود",
+   "href": "https://test.happenengrave.com/fa/login"
+  }
+ ]
+}
