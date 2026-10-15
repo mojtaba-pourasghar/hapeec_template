@@ -1,0 +1,608 @@
+{
+  "site": "https://test.happenengrave.com",
+  "pages": [
+    {
+      "index": 1,
+      "url": "https://test.happenengrave.com/fa",
+      "finalUrl": "https://test.happenengrave.com/fa",
+      "status": 200,
+      "pattern": "/fa",
+      "kind": "other",
+      "slug": "001-fa",
+      "depth": 0,
+      "capturedAt": "2026-10-15T11:28:51.093Z",
+      "shots": {
+        "desktop": {
+          "files": [
+            "desktop-full.jpg",
+            "desktop-part01.jpg",
+            "desktop-part02.jpg",
+            "desktop-part03.jpg"
+          ],
+          "height": 5794
+        },
+        "mobile": {
+          "files": [
+            "mobile-full.jpg",
+            "mobile-part01.jpg",
+            "mobile-part02.jpg",
+            "mobile-part03.jpg"
+          ],
+          "height": 5212
+        }
+      },
+      "error": null,
+      "fingerprint": {
+        "tokens": [
+          "div.top@0",
+          "div.banner@1",
+          "div.banner@2",
+          "img.@3",
+          "header.@0",
+          "div.hdr-main@1",
+          "a.logo@2",
+          "em.@3",
+          "div.nav-menu@2",
+          "button.mobile-nav@3",
+          "span.menu@3",
+          "div.desktop@3",
+          "div.mega@4",
+          "div.hdr-search-wrap@2",
+          "form.hdr@3",
+          "input.srch-inp@4",
+          "div.hdr-acts@2",
+          "a.ha-btn@3",
+          "a.hdr-sell@3",
+          "nav.hdr-sub@1",
+          "div.hdr-sub@2",
+          "ul.hsub-list@3",
+          "li.@4",
+          "div.hsub-end@3",
+          "a.hsub-link@4",
+          "div.@0",
+          "nav.@0",
+          "div.drw-head@1",
+          "div.drw-logo@2",
+          "span.drw-logo-name@3",
+          "a.drw-user@1",
+          "div.drw-user-info@2",
+          "div.drw@1",
+          "div.drw@2",
+          "ul.drw-list@2",
+          "li.@3",
+          "button.drw-link@4",
+          "a.drw-link@4",
+          "section.highlights-wrap@0",
+          "div.hl@1",
+          "div.hl-rail@2",
+          "div.hl-item@3",
+          "div.hl-ring@4",
+          "div.hl@0",
+          "div.hl-modal@1",
+          "div.hl-modal__box@2",
+          "div.hl-modal@3",
+          "div.hl-modal__touch-zone@3",
+          "div.hl-modal__user@4",
+          "button.hl-modal@3",
+          "section.hero@0",
+          "div.slides@1",
+          "div.slide@2",
+          "button.slider-nav@1",
+          "section.sec@0",
+          "div.cont@1",
+          "div.sec-hd@2",
+          "div.@3",
+          "h2.@4",
+          "div.moto-carousel-wrap@2",
+          "div.moto-grid@3",
+          "a.moto-chip@4",
+          "section.trust@0",
+          "div.trust-in@1",
+          "button.trust-nav@2",
+          "div.trust@2",
+          "div.ti@3",
+          "img.@4",
+          "div.cat-carousel-wrap@2",
+          "div.catgrid@3",
+          "a.ccard@4",
+          "section.flash-sale@0",
+          "div.fs@1",
+          "div.fs@2",
+          "h2.@3",
+          "div.fs-unit@3",
+          "span.fs-num@4",
+          "div.fs-cta@2",
+          "a.btn@3",
+          "div.prod-carousel-wrap@2",
+          "div.prod-grid@3",
+          "div.pcard@4",
+          "div.vc-wrap@2",
+          "button.vc-nav@3",
+          "div.vc@3",
+          "a.vc-card@4",
+          "div.brands-box@2",
+          "button.brand-nav@3",
+          "div.brands@3",
+          "div.brand-item@4",
+          "div.blog-carousel-wrap@2",
+          "div.blog-grid@3",
+          "article.blcard@4",
+          "footer.@0",
+          "div.ft-grid@1",
+          "div.@2",
+          "div.ft-logo@3",
+          "em.@4",
+          "p.ft-desc@3",
+          "div.ft@3",
+          "div.ft-col@2",
+          "nav.ft@3",
+          "div.@4",
+          "div.ft-bot@1",
+          "div.ft@2",
+          "span.ftbadge@3",
+          "button.ai@0",
+          "button.@0"
+        ],
+        "features": "0|1|0"
+      },
+      "notes": {
+        "title": "هپپیک",
+        "lang": "fa",
+        "dir": "rtl",
+        "font": "iransans-light",
+        "background": "rgb(246, 241, 235)",
+        "headings": [
+          {
+            "level": "H2",
+            "text": "خرید بر اساس موتور شما"
+          },
+          {
+            "level": "H2",
+            "text": "خرید بر اساس دسته‌بندی"
+          },
+          {
+            "level": "H2",
+            "text": "فروش فوری این هفته"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا"
+          },
+          {
+            "level": "H3",
+            "text": "چراغ LED جلو"
+          },
+          {
+            "level": "H3",
+            "text": "قفل دیسک موتور"
+          },
+          {
+            "level": "H3",
+            "text": "شمع NGK اصلی"
+          },
+          {
+            "level": "H3",
+            "text": "فیلتر هوای اسفنجی"
+          },
+          {
+            "level": "H3",
+            "text": "زنجیر DID ژاپن"
+          },
+          {
+            "level": "H3",
+            "text": "دستکش چرم موتورسواری"
+          },
+          {
+            "level": "H3",
+            "text": "آینه بغل"
+          },
+          {
+            "level": "H3",
+            "text": "روغن موتول 10W40 یک لیتری"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک ایران‌یاسا عقب 300-17"
+          },
+          {
+            "level": "H2",
+            "text": "خرید موتورسیکلت"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیرموتور مدل NVXalpha-170CC سال ساخت 1405"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیر موتور مدل هوندا کلیک آپ 170 سی سی سال 1404"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت نیرو موتور مدل گلکسی اس وای ام NA180cc سال 1405"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت هوندا کلیک 170"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت یاماها NVX 155"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیر طرح هوندا 125"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت نیروموتور گلکسی 180"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت هوندا CRF کراس 250"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت یاماها ایروکس 155"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت برقی کبیر ES"
+          },
+          {
+            "level": "H2",
+            "text": "قطعات و لوازم جانبی"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا"
+          },
+          {
+            "level": "H3",
+            "text": "باک موتورسیکلت تیزرو یدک پارس کد MF2000307 به همراه قاب بغل"
+          },
+          {
+            "level": "H3",
+            "text": "کلاه کاسکت شویی M"
+          },
+          {
+            "level": "H3",
+            "text": "کلاه کاسکت شویی L"
+          },
+          {
+            "level": "H3",
+            "text": "دستکش چرم موتورسواری"
+          },
+          {
+            "level": "H3",
+            "text": "دستکش توری تابستانه"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک ایران‌یاسا عقب 300-17"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک ایران‌یاسا جلو 275-17"
+          },
+          {
+            "level": "H3",
+            "text": "روغن موتول 10W40 یک لیتری"
+          },
+          {
+            "level": "H3",
+            "text": "روغن موتول 20W50"
+          },
+          {
+            "level": "H2",
+            "text": "پیشنهادات این هفته"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیرموتور مدل NVXalpha-170CC سال ساخت 1405"
+          },
+          {
+            "level": "H3",
+            "text": "لاستیک موتور سیکلت ایران یاسا مدل YS سایز 17-300 مناسب برای محور عقب هوندا"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیر موتور مدل هوندا کلیک آپ 170 سی سی سال 1404"
+          },
+          {
+            "level": "H3",
+            "text": "باک موتورسیکلت تیزرو یدک پارس کد MF2000307 به همراه قاب بغل"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت نیرو موتور مدل گلکسی اس وای ام NA180cc سال 1405"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت هوندا کلیک 170"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت یاماها NVX 155"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت کبیر طرح هوندا 125"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت نیروموتور گلکسی 180"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسیکلت هوندا CRF کراس 250"
+          },
+          {
+            "level": "H2",
+            "text": "برترین ویدیوها"
+          },
+          {
+            "level": "H2",
+            "text": "محبوب‌ترین برندها"
+          },
+          {
+            "level": "H2",
+            "text": "مجله موتور"
+          },
+          {
+            "level": "H3",
+            "text": "پیست و موتورسواری ورزشی"
+          },
+          {
+            "level": "H3",
+            "text": "بیمه موتورسیکلت"
+          },
+          {
+            "level": "H3",
+            "text": "راهنمای خرید موتور دست‌دوم"
+          },
+          {
+            "level": "H3",
+            "text": "کم‌کردن روغن؛ راه‌حل"
+          },
+          {
+            "level": "H3",
+            "text": "لرزش فرمان؛ علت‌ها"
+          },
+          {
+            "level": "H3",
+            "text": "صداهای غیرعادی انجین"
+          },
+          {
+            "level": "H3",
+            "text": "زمستان و نگهداری موتور"
+          },
+          {
+            "level": "H3",
+            "text": "آماده‌سازی موتور برای سفر"
+          },
+          {
+            "level": "H3",
+            "text": "موتورسواری در ترافیک شهر"
+          },
+          {
+            "level": "H3",
+            "text": "رانندگی ایمن در باران"
+          }
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "top": 45,
+            "height": 107
+          },
+          {
+            "tag": "nav",
+            "class": "hdr-sub",
+            "top": 108,
+            "height": 43
+          },
+          {
+            "tag": "nav",
+            "id": "mobile-drawer",
+            "top": 0,
+            "height": 900
+          },
+          {
+            "tag": "section",
+            "class": "highlights-wrap",
+            "top": 152,
+            "height": 172
+          },
+          {
+            "tag": "section",
+            "class": "hero-slider",
+            "top": 324,
+            "height": 297
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-s moto-sec",
+            "heading": "خرید بر اساس موتور شما",
+            "top": 621,
+            "height": 190
+          },
+          {
+            "tag": "section",
+            "class": "trust",
+            "top": 811,
+            "height": 131
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-w",
+            "heading": "خرید بر اساس دسته‌بندی",
+            "top": 942,
+            "height": 270
+          },
+          {
+            "tag": "section",
+            "class": "flash-sale",
+            "heading": "فروش فوری این هفته",
+            "top": 1212,
+            "height": 706
+          },
+          {
+            "tag": "section",
+            "id": "motorcycles",
+            "class": "sec bg-w",
+            "heading": "خرید موتورسیکلت",
+            "top": 1918,
+            "height": 607
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-s home-banner",
+            "top": 2524,
+            "height": 367
+          },
+          {
+            "tag": "section",
+            "id": "parts",
+            "class": "sec bg-w",
+            "heading": "قطعات و لوازم جانبی",
+            "top": 2891,
+            "height": 607
+          },
+          {
+            "tag": "section",
+            "id": "products",
+            "class": "sec bg-s",
+            "heading": "پیشنهادات این هفته",
+            "top": 3498,
+            "height": 581
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-w",
+            "heading": "برترین ویدیوها",
+            "top": 4078,
+            "height": 519
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-s",
+            "heading": "محبوب‌ترین برندها",
+            "top": 4597,
+            "height": 338
+          },
+          {
+            "tag": "section",
+            "class": "sec bg-w",
+            "heading": "مجله موتور",
+            "top": 4935,
+            "height": 469
+          },
+          {
+            "tag": "footer",
+            "top": 5404,
+            "height": 390
+          },
+          {
+            "tag": "nav",
+            "class": "ft-links",
+            "top": 5489,
+            "height": 191
+          }
+        ]
+      },
+      "links": [
+        "https://test.happenengrave.com/fa",
+        "https://test.happenengrave.com/fa/products",
+        "https://test.happenengrave.com/fa/cart",
+        "https://test.happenengrave.com/fa/login",
+        "https://test.happenengrave.com/fa/flash-sale",
+        "https://test.happenengrave.com/fa/blogs",
+        "https://test.happenengrave.com/fa/seller-center/login",
+        "https://test.happenengrave.com/fa/about-us",
+        "https://test.happenengrave.com/fa/faqs",
+        "https://test.happenengrave.com/fa/terms",
+        "https://test.happenengrave.com/fa/privacy",
+        "https://test.happenengrave.com/fa/contact",
+        "https://test.happenengrave.com/product/hpc-4143172",
+        "https://test.happenengrave.com/product/led-headlight",
+        "https://test.happenengrave.com/product/disc-lock",
+        "https://test.happenengrave.com/product/ngk-spark-plug",
+        "https://test.happenengrave.com/product/foam-air-filter",
+        "https://test.happenengrave.com/product/did-drive-chain",
+        "https://test.happenengrave.com/product/leather-riding-gloves",
+        "https://test.happenengrave.com/product/side-mirror",
+        "https://test.happenengrave.com/product/motul-oil-10w40",
+        "https://test.happenengrave.com/product/yasa-rear-tire-300",
+        "https://test.happenengrave.com/product/motorsyklt-kbyrmotor-mdl-nvxalpha-170cc-sal-sakht-1405",
+        "https://test.happenengrave.com/product/hpc-20549287",
+        "https://test.happenengrave.com/product/hpc-22395073",
+        "https://test.happenengrave.com/product/honda-click-170",
+        "https://test.happenengrave.com/product/yamaha-nvx-155",
+        "https://test.happenengrave.com/product/kabir-honda-125",
+        "https://test.happenengrave.com/product/niroo-galaxy-180",
+        "https://test.happenengrave.com/product/honda-crf-250",
+        "https://test.happenengrave.com/product/yamaha-aerox-155",
+        "https://test.happenengrave.com/product/kabir-es-electric",
+        "https://test.happenengrave.com/fa/banner/7/click",
+        "https://test.happenengrave.com/product/hpc-20888988",
+        "https://test.happenengrave.com/product/shoei-helmet-m",
+        "https://test.happenengrave.com/product/shoei-helmet-l",
+        "https://test.happenengrave.com/product/mesh-summer-gloves",
+        "https://test.happenengrave.com/product/yasa-front-tire-275",
+        "https://test.happenengrave.com/product/motul-oil-20w50",
+        "https://test.happenengrave.com/",
+        "https://test.happenengrave.com/fa/blog/moto-mag-30",
+        "https://test.happenengrave.com/fa/blog/moto-mag-29",
+        "https://test.happenengrave.com/fa/blog/moto-mag-28",
+        "https://test.happenengrave.com/fa/blog/moto-mag-27",
+        "https://test.happenengrave.com/fa/blog/moto-mag-26",
+        "https://test.happenengrave.com/fa/blog/moto-mag-25",
+        "https://test.happenengrave.com/fa/blog/moto-mag-24",
+        "https://test.happenengrave.com/fa/blog/moto-mag-23",
+        "https://test.happenengrave.com/fa/blog/moto-mag-22",
+        "https://test.happenengrave.com/fa/blog/moto-mag-21"
+      ]
+    }
+  ],
+  "skipped": [],
+  "runs": [
+    {
+      "startedAt": "2026-10-15T11:28:35.668Z",
+      "options": {
+        "maxPages": 500,
+        "maxVisits": 150,
+        "perPattern": 2,
+        "maxDepth": 4,
+        "viewports": [
+          "desktop",
+          "mobile"
+        ],
+        "keepQuery": false,
+        "sliceHeight": 2000,
+        "delay": 800,
+        "format": "jpeg",
+        "quality": 80,
+        "saveHtml": true,
+        "dedupe": true,
+        "focus": true,
+        "threshold": 0.7,
+        "seeds": 0,
+        "fresh": false,
+        "only": [
+          "https://test.happenengrave.com/fa"
+        ],
+        "outDir": "C:\\MyData\\Projects\\Web\\Hapeec\\happec_shop\\tools\\site-capture\\captures",
+        "useAuth": false,
+        "headed": true
+      },
+      "captured": 1,
+      "skipped": 0,
+      "filled": 0,
+      "failed": 0,
+      "finishedAt": "2026-10-15T11:29:01.876Z",
+      "visits": 1
+    }
+  ],
+  "failed": [],
+  "pending": []
+}
