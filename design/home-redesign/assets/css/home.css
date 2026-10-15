@@ -212,11 +212,13 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 
 .nav { background: var(--c-white); }
 .nav-in {
-  display: flex; align-items: center; gap: var(--s-6);
+  display: flex; align-items: center; gap: var(--s-5);
   padding-block: var(--s-2) var(--s-4);
   min-height: 44px;
 }
 .nav-list { display: flex; align-items: center; gap: var(--s-6); flex-wrap: nowrap; }
+/* Pushes the seller CTA to the far end, so the row spans the full guard. */
+.nav-divider-end { margin-inline-start: auto; }
 .nav-link {
   display: inline-flex; align-items: center; gap: var(--s-2);
   font-size: var(--fs-14); color: var(--c-navy); white-space: nowrap;
@@ -241,7 +243,7 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
    6. Hero — full-bleed
    -------------------------------------------------------------------------- */
 
-.hero { position: relative; width: 100%; overflow: hidden; background: var(--c-gray); }
+.hero { position: relative; width: 100%; overflow: hidden; background: var(--c-white); }
 .hero-track { display: flex; transition: transform .45s var(--ease); }
 .hero-slide { flex: 0 0 100%; min-width: 0; line-height: 0; }
 .hero-slide img {
@@ -349,19 +351,24 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
    -------------------------------------------------------------------------- */
 
 .promo {
-  display: flex; align-items: center; justify-content: space-between;
+  display: flex; align-items: center;
   gap: var(--s-6);
   background: var(--c-orange);
   border-radius: var(--r-lg);
   padding: var(--s-6) var(--s-8);
   color: var(--c-navy);
 }
-.promo-txt { min-width: 0; }
-.promo-txt h2 { font-size: var(--fs-24); color: var(--c-navy); }
+/* The copy takes the slack, so the timer and the CTA sit together at the
+   end of the banner rather than drifting into the middle. */
+.promo-txt { min-width: 0; flex: 1 1 auto; }
+.promo-txt h2 { font-size: var(--fs-24); color: var(--c-white); }
 .promo-txt p {
   margin: var(--s-2) 0 0;
-  font-size: var(--fs-13); color: var(--c-navy-80);
+  font-size: var(--fs-13); color: rgba(255, 255, 255, .92);
 }
+/* The product rail that belongs to a promo banner. */
+.promo-rail { margin-block-start: var(--s-6); }
+.sec-sub { margin: var(--s-2) 0 0; font-size: var(--fs-13); color: var(--c-steel); }
 
 /* Countdown — toward the left of the banner in the desktop RTL composition. */
 .promo-timer { display: flex; align-items: center; gap: var(--s-2); flex: none; }
@@ -531,7 +538,7 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 .banner-card {
   display: block; line-height: 0;
   border: 0; border-radius: var(--r-md); overflow: hidden;
-  background: var(--c-gray);
+  background: var(--c-white);
 }
 .banner-card img {
   width: 100%; height: 100%;
@@ -541,17 +548,16 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 }
 .banner-card:hover img { transform: scale(1.02); }
 
-/* With fewer real banners than slots, the row stays balanced instead of
-   leaving holes or inventing campaigns. */
-.banner-grid[data-count="1"] { grid-template-columns: 1fr; }
-.banner-grid[data-count="1"] .banner-card img { aspect-ratio: 1440 / 300; }
-.banner-grid[data-count="2"] { grid-template-columns: repeat(2, 1fr); }
-.banner-grid[data-count="3"] { grid-template-columns: repeat(3, 1fr); }
+/* One wide campaign banner, edge to edge inside the guard. */
+.wide-banner {
+  display: block; line-height: 0;
+  border: 0; border-radius: var(--r-md); overflow: hidden;
+}
+.wide-banner img { width: 100%; aspect-ratio: 1440 / 260; object-fit: cover; }
 
 @media (max-width: 860px) {
   .banner-grid { grid-template-columns: repeat(2, 1fr); }
-  .banner-grid[data-count="1"] { grid-template-columns: 1fr; }
-  .banner-grid[data-count="1"] .banner-card img { aspect-ratio: 16 / 7; }
+  .wide-banner img { aspect-ratio: 16 / 7; }
 }
 
 /* --------------------------------------------------------------------------
@@ -560,8 +566,8 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 
 .cat-grid {
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  gap: var(--s-4);
+  grid-template-columns: repeat(5, 1fr);
+  gap: var(--s-5) var(--s-4);
 }
 .ccard {
   display: flex; flex-direction: column; align-items: center; gap: var(--s-3);
@@ -573,9 +579,11 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 .ccard:hover { background: var(--c-gray); }
 .ccard-img {
   width: 100%; aspect-ratio: 1 / 1;
-  display: grid; place-items: center;
+  display: block; overflow: hidden;
+  border-radius: var(--r-pill);
+  background: var(--c-gray);
 }
-.ccard-img img { width: 100%; height: 100%; object-fit: contain; }
+.ccard-img img { width: 100%; height: 100%; object-fit: cover; }
 .ccard h3 {
   font-size: var(--fs-13); font-weight: var(--fw-regular); color: var(--c-navy);
   line-height: 1.5;
@@ -583,8 +591,8 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
   overflow: hidden;
 }
 
-@media (max-width: 1200px) { .cat-grid { grid-template-columns: repeat(5, 1fr); } }
-@media (max-width: 680px)  { .cat-grid { grid-template-columns: repeat(2, 1fr); gap: var(--s-3); } }
+@media (max-width: 900px) { .cat-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 680px) { .cat-grid { grid-template-columns: repeat(2, 1fr); gap: var(--s-4) var(--s-3); } }
 
 /* --------------------------------------------------------------------------
    12. Compatible-motorcycle chips
@@ -617,7 +625,7 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
    13. Trust strip
    -------------------------------------------------------------------------- */
 
-.trust { background: var(--c-gray); padding-block: var(--s-6); }
+.trust { background: var(--c-white); }
 .trust-row {
   display: grid; grid-template-columns: repeat(6, 1fr); gap: var(--s-4);
 }
@@ -632,10 +640,15 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
    14. Brand logos
    -------------------------------------------------------------------------- */
 
+/* Arrows are laid out beside the rail, not over it, so a logo is never
+   covered mid-scroll. */
+.brand-rail-wrap {
+  display: flex; align-items: center; gap: var(--s-3);
+}
 .brand-rail {
+  flex: 1 1 auto; min-width: 0;
   display: flex; align-items: center; gap: var(--s-10);
-  overflow-x: auto; scrollbar-width: none;
-  margin-inline-end: calc(var(--gutter) * -1); padding-inline-end: var(--gutter);
+  overflow-x: auto; scrollbar-width: none; scroll-behavior: smooth;
   padding-block: var(--s-4);
 }
 .brand-rail::-webkit-scrollbar { display: none; }
@@ -713,7 +726,6 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
   display: flex; align-items: center; justify-content: space-between;
   gap: var(--s-4); flex-wrap: wrap;
   padding-block-start: var(--s-6);
-  border-block-start: 1px solid var(--c-line);
   font-size: var(--fs-12); color: var(--c-steel);
 }
 .ft-badges { display: flex; gap: var(--s-5); flex-wrap: wrap; }
@@ -793,3 +805,9 @@ h1, h2, h3, h4 { margin: 0; font-weight: var(--fw-bold); line-height: var(--lh-t
 }
 
 body[data-locked="true"] { overflow: hidden; }
+
+.brand-rail-wrap .rail-nav {
+  position: static; transform: none; flex: none;
+  box-shadow: none; background: var(--c-gray);
+}
+.brand-rail-wrap .rail-prev { order: -1; }

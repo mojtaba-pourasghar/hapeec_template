@@ -166,7 +166,7 @@ def promo_banner(title, sub, cta_text, cta_href, countdown=None):
         '%s'
         '<a class="btn btn-on-orange" href="%s">%s%s</a>'
         '</div>'
-    ) % (e(title), e(sub), timer, e(cta_href), e(cta_text), icon('arrow_l', 'icon-sm'))
+    ) % (e(title), e(sub), timer, e(cta_href), e(cta_text), icon('chev_l', 'icon-sm'))
 
 
 # ---------------------------------------------------------------------------
@@ -177,6 +177,23 @@ def build():
     d = DATA
     out = []
     w = out.append
+
+    # Real HAPEEC photography, reused as category and banner artwork. Every
+    # entry is a product shot the catalogue already serves, so a helmet tile
+    # shows a helmet and a glove tile shows gloves — no pictograms.
+    PHOTO = BASE + '/uploads/products/thumbnail/'
+    CAT_PHOTO = {
+        'موتور سیکلت':        'product01.jpg',
+        'موتور برقی':          'product07.jpg',
+        'کلاه کاسکت و عینک':   'product11.jpg',
+        'دستکش موتورسیکلت':    'product13.jpg',
+        'لاستیک موتورسیکلت':   'product15.jpg',
+        'روغن موتور سیکلت':    'product17.jpg',
+        'شمع موتورسیکلت':      'product23.jpg',
+        'چراغ و لامپ موتور':   'product25.jpg',
+        'قفل و دزدگیر موتور':  'product29.jpg',
+        'لوازم یدکی':          'product33.jpg',
+    }
 
     # -- head ---------------------------------------------------------------
     w('<!DOCTYPE html>')
@@ -193,23 +210,19 @@ def build():
     w(TOMAN_SYMBOL)
     w('<a class="skip-link" href="#main">رفتن به محتوای اصلی</a>')
 
-    # -- row 1: full-width announcement -------------------------------------
+    # -- row 1: announcement, edge to edge ----------------------------------
     ann = d['announcement']
     if ann.get('img'):
         href = ann.get('href') or (BASE + '/fa/flash-sale')
-        w('<a class="ann" href="%s"><img src="%s" alt="%s" fetchpriority="high" width="1440" height="90"></a>'
+        w('<a class="ann" href="%s"><img src="%s" alt="%s" fetchpriority="high"></a>'
           % (e(href), e(ann['img']), e(ann['alt'])))
 
-    # -- row 2: header ------------------------------------------------------
+    # -- row 2: logo · search · camera · bell · login · cart -----------------
     w('<header class="hdr">')
     w('<div class="cont hdr-main">')
     w('<a class="logo" href="%s/fa" aria-label="هپیک — صفحه اصلی">'
       '<img src="assets/img/hapeec-wordmark.png" alt="HAPEEC" width="433" height="73"></a>' % BASE)
 
-    w('<button class="hdr-cats" data-drawer-open aria-expanded="false" aria-controls="drawer">'
-      '%s<span class="hdr-cats-text">دسته‌بندی‌ها</span></button>' % icon('menu'))
-
-    # search, with the camera as its own control immediately beside the field
     w('<div class="hdr-search">')
     w('<form class="srch" action="%s/fa/products" method="get" role="search">' % BASE)
     w('<button class="srch-btn" type="submit" aria-label="جستجو">%s</button>' % icon('search'))
@@ -222,7 +235,6 @@ def build():
       'aria-label="جستجو با عکس" title="جستجو با عکس">%s</button>' % (BASE, icon('camera')))
     w('</div>')
 
-    # account actions
     w('<div class="hdr-acts">')
     w('<a class="ha" href="%s/fa/notifications" aria-label="اعلان‌ها">'
       '<span class="ha-ico">%s</span></a>' % (BASE, icon('bell')))
@@ -235,19 +247,24 @@ def build():
     w('</div>')
     w('</header>')
 
-    # -- row 3: navigation --------------------------------------------------
+    # -- row 3: navigation. Its two ends set the content guard used by every
+    #    section below: «دسته‌بندی کالاها» on the right, «در هپیک بفروشید» on
+    #    the left. No rule under the header, no rule under this row.
+    NAV_KEEP = ('شگفت‌انگیزها', 'پرفروش‌ترین‌ها', 'مجله')
     w('<nav class="nav" aria-label="میان‌برها">')
     w('<div class="cont nav-in">')
+    w('<button class="nav-link nav-cats" data-drawer-open aria-expanded="false" aria-controls="drawer">'
+      '%s<span>دسته‌بندی کالاها</span></button>' % icon('menu'))
+    w('<span class="nav-divider" aria-hidden="true"></span>')
     w('<ul class="nav-list">')
-    w('<li><button class="nav-link" data-drawer-open aria-expanded="false" aria-controls="drawer">'
-      '%s<span>دسته‌بندی کالاها</span></button></li>' % icon('menu'))
     for item in d['subnav']:
-        name = FA_MAP.get(item['icon'], 'tag')
+        if item['text'] not in NAV_KEEP:
+            continue
         w('<li><a class="nav-link" href="%s">%s<span>%s</span></a></li>'
-          % (e(item['href']), icon(name), e(item['text'])))
+          % (e(item['href']), icon(FA_MAP.get(item['icon'], 'tag')), e(item['text'])))
     w('</ul>')
     if d.get('sell_cta'):
-        w('<span class="nav-divider" aria-hidden="true"></span>')
+        w('<span class="nav-divider nav-divider-end" aria-hidden="true"></span>')
         w('<a class="nav-sell" href="%s">%s<span>%s</span></a>'
           % (e(d['sell_cta']['href']), icon('store'), e(d['sell_cta']['text'])))
     w('</div>')
@@ -255,13 +272,13 @@ def build():
 
     w('<main id="main">')
 
-    # -- hero, full-bleed ---------------------------------------------------
+    # -- hero, edge to edge -------------------------------------------------
     if d['hero']:
         w('<section class="hero" data-hero aria-label="بنر اصلی">')
         w('<div class="hero-track">')
         for i, s in enumerate(d['hero']):
             w('<div class="hero-slide" aria-hidden="%s"><img src="%s" alt="%s" %s '
-              'width="1440" height="420" decoding="async"></div>'
+              'decoding="async"></div>'
               % ('false' if i == 0 else 'true', e(s['img']), e(s['alt']),
                  'fetchpriority="high"' if i == 0 else 'loading="lazy"'))
         w('</div>')
@@ -274,17 +291,14 @@ def build():
         w('</div>')
         w('</section>')
 
-    # -- story circles: 8 visible + «بیشتر» ---------------------------------
+    # -- story circles: 8 fixed + «بیشتر», spanning the whole guard ----------
     stories = d['stories']
     VISIBLE = 8
     w('<section class="sec stories" aria-label="هایلایت‌ها"><div class="cont">')
     w('<div class="story-rail">')
-    # Buttons, not links: the catalogue has no per-story URL — the theme's
-    # existing highlight viewer opens these from the same data attributes.
     for i, s in enumerate(stories):
         hidden = ' hidden data-story-hidden' if i >= VISIBLE else ''
-        w('<button type="button" class="story" data-story-id="%s" '
-          'data-slides="%s"%s>'
+        w('<button type="button" class="story" data-story-id="%s" data-slides="%s"%s>'
           '<span class="story-ring"><span class="story-img">'
           '<img src="%s" alt="" loading="lazy" width="88" height="88"></span></span>'
           '<span class="story-label">%s</span></button>'
@@ -297,43 +311,45 @@ def build():
     w('</div>')
     w('</div></section>')
 
-    # -- flash sale ---------------------------------------------------------
+    # -- flash sale, directly under the stories -----------------------------
     fs = d['flash']
     w('<section class="sec" id="flash-sale"><div class="cont">')
     w(promo_banner(fs['title'], fs['sub'], fs['cta'], fs['cta_href'], countdown=fs.get('end')))
-    w('</div>')
-    w('<div class="cont" style="margin-block-start:var(--s-6)">')
+    w('<div class="promo-rail">')
     w(product_rail('flashGrid', d['grids']['flashGrid'], eager_first=True))
-    w('</div></section>')
-
-    # -- promotional banner block (four-up grid, fed by the banner position) --
-    banners = d['mid_banners']
-    if banners:
-        w('<section class="sec" aria-label="بنرهای تبلیغاتی"><div class="cont">')
-        w('<div class="banner-grid" data-count="%d" data-banner-position="home_middle">' % min(len(banners), 4))
-        for b in banners[:4]:
-            w('<a class="banner-card" href="%s" rel="nofollow sponsored">'
-              '<img src="%s" alt="%s" loading="lazy"></a>'
-              % (e(b['href']), e(b['img']), e(b['alt'])))
-        w('</div>')
-        w('</div></section>')
-
-    # -- second promotional product section (same banner + card system) -----
-    motor = d['grids']['motorGrid']
-    w('<section class="sec" id="motorcycles"><div class="cont">')
-    w(promo_banner('خرید موتورسیکلت',
-                   'ارسال سراسری، پرداخت امن و ضمانت ۷ روزه بازگشت وجه',
-                   'مشاهده همه موتورسیکلت‌ها', BASE + '/fa/products?type=motorcycle'))
     w('</div>')
-    w('<div class="cont" style="margin-block-start:var(--s-6)">')
-    w(product_rail('motorGrid', motor['items']))
     w('</div></section>')
 
-    # -- compatible-motorcycle chips ---------------------------------------
+    # -- exactly four banners, no captions ----------------------------------
+    TILES = [
+        ('موتورسیکلت', 'product01.jpg', '/fa/products?categories=1'),
+        ('کلاه کاسکت و عینک', 'product11.jpg', '/fa/products?categories=9'),
+        ('دستکش موتورسیکلت', 'product13.jpg', '/fa/products?categories=10'),
+        ('روغن و لوازم مصرفی', 'product17.jpg', '/fa/products?categories=5'),
+    ]
+    w('<section class="sec" aria-label="بنرهای تبلیغاتی"><div class="cont">')
+    w('<div class="banner-grid">')
+    for alt, img, href in TILES:
+        w('<a class="banner-card" href="%s" aria-label="%s">'
+          '<img src="%s%s" alt="%s" loading="lazy"></a>'
+          % (e(BASE + href), e(alt), PHOTO, img, e(alt)))
+    w('</div>')
+    w('</div></section>')
+
+    # -- second promotional banner + the same product card ------------------
+    w('<section class="sec" id="motorcycles"><div class="cont">')
+    w(promo_banner('زودتر تحویل بگیرید',
+                   'ارسال سراسری، پرداخت امن و ضمانت ۷ روزه بازگشت وجه',
+                   'خرید موتورسیکلت', BASE + '/fa/products?type=motorcycle'))
+    w('<div class="promo-rail">')
+    w(product_rail('motorGrid', d['grids']['motorGrid']['items']))
+    w('</div>')
+    w('</div></section>')
+
+    # -- compatible-motorcycle chips ----------------------------------------
     w('<section class="sec"><div class="cont">')
     w('<div class="sec-hd"><div><h2>خرید بر اساس <em>موتور شما</em></h2>'
-      '<p style="margin:var(--s-2) 0 0;font-size:var(--fs-13);color:var(--c-steel)">'
-      'موتور خود را انتخاب کنید تا قطعات سازگار را اول ببینید</p></div></div>')
+      '<p class="sec-sub">موتور خود را انتخاب کنید تا قطعات سازگار را اول ببینید</p></div></div>')
     w('<div class="moto-rail">')
     for m in d['moto']:
         cc = '<span class="moto-cc">%s</span>' % e(m['cc']) if m['cc'] else ''
@@ -343,37 +359,43 @@ def build():
     w('</div>')
     w('</div></section>')
 
-    # -- trust strip --------------------------------------------------------
-    w('<section class="trust"><div class="cont"><div class="trust-row">')
-    for ti in d['trust']:
-        w('<div class="ti"><img src="%s" alt="" loading="lazy" width="32" height="32">'
-          '<span>%s</span></div>' % (e(ti['img']), e(ti['text'])))
-    w('</div></div></section>')
-
     # -- parts row ----------------------------------------------------------
-    parts = d['grids']['partGrid']
     w(section('قطعات و', 'لوازم جانبی',
-              product_rail('partGrid', parts['items']),
+              product_rail('partGrid', d['grids']['partGrid']['items']),
               sec_id='parts',
               more={'text': 'مشاهده همه', 'href': BASE + '/fa/products?type=parts'}))
 
-    # -- categories ---------------------------------------------------------
-    cats = d['categories'][:10]
+    # -- ten categories, real photography -----------------------------------
+    cats = [c for c in d['categories'] if c['name'] in CAT_PHOTO][:10]
     grid = '<div class="cat-grid">' + ''.join(
         '<a class="ccard" href="%s"><span class="ccard-img">'
-        '<img src="%s" alt="" loading="lazy" width="120" height="120"></span>'
-        '<h3>%s</h3></a>' % (e(c['href']), e(c['img']), e(c['name'])) for c in cats
+        '<img src="%s%s" alt="" loading="lazy"></span>'
+        '<h3>%s</h3></a>' % (e(c['href']), PHOTO, CAT_PHOTO[c['name']], e(c['name']))
+        for c in cats
     ) + '</div>'
     w(section('خرید بر اساس', 'دسته‌بندی', grid,
               more={'text': 'همه دسته‌بندی‌ها', 'href': BASE + '/fa/products'}))
 
     # -- weekly offers ------------------------------------------------------
-    offers = d['grids']['prodGrid']
     w(section('پیشنهادات', 'این هفته',
-              product_rail('prodGrid', offers['items']),
+              product_rail('prodGrid', d['grids']['prodGrid']['items']),
               more={'text': 'مشاهده همه', 'href': BASE + '/fa/products'}))
 
-    # -- brands -------------------------------------------------------------
+    # -- wide campaign banner -----------------------------------------------
+    for b in d['mid_banners'][:1]:
+        w('<section class="sec"><div class="cont">'
+          '<a class="wide-banner" href="%s" rel="nofollow sponsored">'
+          '<img src="%s" alt="%s" loading="lazy"></a>'
+          '</div></section>' % (e(b['href']), e(b['img']), e(b['alt'])))
+
+    # -- trust strip --------------------------------------------------------
+    w('<section class="sec trust"><div class="cont"><div class="trust-row">')
+    for ti in d['trust']:
+        w('<div class="ti"><img src="%s" alt="" loading="lazy" width="32" height="32">'
+          '<span>%s</span></div>' % (e(ti['img']), e(ti['text'])))
+    w('</div></div></section>')
+
+    # -- brands: marks only, no names, no rules -----------------------------
     brand_items = []
     for b in d['brands']:
         inner = ('<img src="%s" alt="%s" loading="lazy">' % (e(b['logo']), e(b['name']))
@@ -382,7 +404,11 @@ def build():
         brand_items.append('<a class="brand" href="%s" aria-label="%s">%s</a>'
                            % (e(b['href']), e(b['name']), inner))
     w(section('محبوب‌ترین', 'برندها',
-              '<div class="brand-rail">%s</div>' % ''.join(brand_items)))
+              '<div class="brand-rail-wrap" data-rail>'
+              '<button class="rail-nav rail-prev" data-rail-prev aria-label="قبلی" hidden>%s</button>'
+              '<button class="rail-nav rail-next" data-rail-next aria-label="بعدی">%s</button>'
+              '<div class="brand-rail" data-rail-track>%s</div></div>'
+              % (icon('chev_r', 'icon-sm'), icon('chev_l', 'icon-sm'), ''.join(brand_items))))
 
     # -- magazine -----------------------------------------------------------
     blog = ''.join(
